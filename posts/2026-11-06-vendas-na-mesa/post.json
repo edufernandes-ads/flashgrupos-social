@@ -1,0 +1,81 @@
+{
+  "data": "2026-11-06",
+  "hora": "07:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "aprovado": true,
+  "legenda": "conta quantas dessas aconteceram no seu grupo essa semana.\n\na promoção que você viu tarde demais. o link colado na pressa, sem a sua etiqueta. a tarde inteira com o grupo parado enquanto você trabalhava. o mesmo produto pela terceira vez.\n\nnenhuma delas é falta de oferta boa. é falta de mão pra dar conta de tudo.\n\no Flash Grupos cuida das quatro: posta na hora, sempre com o seu link e o seu cupom, das 9h às 21h, sem repetir produto.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nme conta nos comentários: qual das 4 mais te pegou?\n\nlink na bio",
+  "hashtags": [
+    "grupodeachadinhos",
+    "afiliadashopee",
+    "afiliadomercadolivre",
+    "blackfriday",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "4 vendas que o seu grupo *deixa na mesa* todo dia.",
+      "sub": "A terceira acontece em quase todo grupo de achadinhos."
+    },
+    {
+      "tipo": "texto",
+      "numero": 1,
+      "titulo": "A promoção *relâmpago das 15h*",
+      "corpo": "Você viu às 16h30. Quando postou, o estoque tinha acabado. Aquela venda era sua."
+    },
+    {
+      "tipo": "texto",
+      "numero": 2,
+      "titulo": "O link que saiu *sem a sua etiqueta*",
+      "corpo": "Na pressa, colou o link direto da loja. A pessoa comprou. A comissão não caiu pra você."
+    },
+    {
+      "tipo": "texto",
+      "numero": 3,
+      "titulo": "A tarde em que *o grupo ficou mudo*",
+      "corpo": "Você no trabalho, o grupo parado. Quem estava com o celular na mão comprou em outro grupo."
+    },
+    {
+      "tipo": "texto",
+      "numero": 4,
+      "titulo": "O mesmo produto *pela terceira vez*",
+      "corpo": "Na correria, repetiu o que já tinha mandado. O grupo cansa e para de clicar."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Nenhuma é falta de oferta boa. *É falta de mão.*",
+      "corpo": "Uma pessoa sozinha não consegue estar em todos os grupos, o dia inteiro, sem errar um link."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O Flash Grupos *cuida das quatro*",
+      "itens": [
+        "Posta a promoção na hora que ela aparece",
+        "Todo link com a sua etiqueta e o seu cupom",
+        "Grupo ativo das 9h às 21h",
+        "Produto repetido fica de fora sozinho"
+      ]
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg",
+    "slide-08.jpg"
+  ],
+  "tema_usado": "black",
+  "status": "publicado",
+  "via": "navegador",
+  "publicado_em": "2026-11-06T05:30"
+}
