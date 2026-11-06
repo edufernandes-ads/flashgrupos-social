@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Social media do Flash Grupos: publica no Instagram o post que chegou na hora.
 
-Roda no GitHub Actions (a cada 30 min). Precisa dos secrets:
-  IG_USER_ID  id da conta profissional do Instagram
-  IG_TOKEN    token (de preferência de usuário do sistema do Business Manager, não expira)
+Roda no GitHub Actions (a cada 30 min). Precisa do secret:
+  IG_TOKEN    token do Instagram (API com login do Instagram, graph.instagram.com).
+              Opcional: IG_USER_ID (se vazio, descobre sozinho) e IG_API=facebook para usar graph.facebook.com.
+O token dura 60 dias e é renovado sozinho a cada execução (refresh_access_token).
 Opcional:
   IMAGE_BASE_URL  endereço público das imagens (padrão: raw do GitHub deste repositório)
 
@@ -18,7 +19,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-API = "https://graph.facebook.com/v21.0"
+API = "https://graph.facebook.com/v21.0" if os.environ.get("IG_API") == "facebook" else "https://graph.instagram.com/v21.0"
 BRT = timezone(timedelta(hours=-3))
 
 
@@ -57,8 +58,25 @@ def caption(post):
     return (txt + ("\n\n" + tags if tags else ""))[:2200]
 
 
+def ig_id():
+    if os.environ.get("IG_USER_ID"):
+        return os.environ["IG_USER_ID"]
+    return str(call("GET", "me", fields="user_id").get("user_id") or call("GET", "me", fields="id")["id"])
+
+
+def refresh_token():
+    if "graph.instagram.com" not in API:
+        return
+    try:
+        r = call("GET", "refresh_access_token", grant_type="ig_refresh_token")
+        same = r.get("access_token") == os.environ["IG_TOKEN"]
+        print(f"Token renovado por mais {int(r.get('expires_in', 0)) // 86400} dias" + ("" if same else " (token novo gerado: atualize o secret IG_TOKEN)"))
+    except SystemExit as e:
+        print(f"Aviso: não renovou o token: {e}")
+
+
 def publish(post_dir: Path, post: dict):
-    ig = os.environ["IG_USER_ID"]
+    ig = ig_id()
     repo = os.environ.get("GITHUB_REPOSITORY", "")
     base = os.environ.get("IMAGE_BASE_URL") or f"https://raw.githubusercontent.com/{repo}/main"
     urls = [f"{base}/posts/{post_dir.name}/{img}" for img in post["imagens"]]
@@ -101,9 +119,11 @@ def main():
     if (ROOT / "PAUSAR").exists():
         print("Arquivo PAUSAR encontrado: nada publicado.")
         return
-    if not os.environ.get("IG_TOKEN") or not os.environ.get("IG_USER_ID"):
-        print("Secrets IG_TOKEN/IG_USER_ID ainda não configurados: nada publicado.")
+    if not os.environ.get("IG_TOKEN"):
+        print("Secret IG_TOKEN ainda não configurado: nada publicado.")
         return
+    if datetime.now(BRT).hour == 9:
+        refresh_token()
     due = due_posts()
     if not due:
         print("Nenhum post na hora.")

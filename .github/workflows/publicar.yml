@@ -23,6 +23,7 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IMAGE_BASE_URL: ${{ vars.IMAGE_BASE_URL }}
+          IG_API: ${{ vars.IG_API }}
         run: python3 scripts/publish.py
       - name: Gravar o status
         run: |
