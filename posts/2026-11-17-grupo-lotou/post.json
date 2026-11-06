@@ -1,0 +1,66 @@
+{
+  "data": "2026-11-17",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "legenda": "Grupo lotou no meio do anúncio? Não perca quem chegou.\n\nGrupo de WhatsApp tem limite, e na Black enche rápido.\nCom o redirecionador, você usa um link fixo no anúncio, na bio e nos stories.\nQuando o grupo lota, o próximo da fila assume sozinho.\nE você vê quem entrou, quem saiu e quem ficou.\n\nSalve para a sua próxima campanha. Link na bio.",
+  "hashtags": [
+    "trafegopago",
+    "gestordetrafego",
+    "gruposdewhatsapp",
+    "marketingdigital"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Grupo lotou no meio do anúncio? Não perca *quem chegou*.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Grupo de WhatsApp tem *limite*.",
+      "corpo": "Na Black, enche rápido. E o anúncio continua mandando gente para o grupo cheio."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Um *link fixo* para anúncio, bio e stories.",
+      "corpo": "Atrás dele fica uma fila de grupos."
+    },
+    {
+      "tipo": "tela",
+      "imagem": "redirecionadores.jpg",
+      "recorte": [
+        0.03,
+        0.385,
+        0.47,
+        0.69
+      ],
+      "titulo": "Quando o grupo lota, o *próximo assume* sozinho."
+    },
+    {
+      "tipo": "tela",
+      "imagem": "membros.jpg",
+      "recorte": [
+        0.15,
+        0,
+        0.69,
+        0.75
+      ],
+      "titulo": "Você vê quem entrou, quem saiu e *quem ficou*."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Salve para a sua *próxima campanha*.",
+      "botao": "Teste 7 dias: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

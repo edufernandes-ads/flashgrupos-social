@@ -1,0 +1,61 @@
+{
+  "data": "2026-11-10",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "legenda": "11.11 é amanhã. Seu grupo está pronto?\n\n1. Link de afiliado certo em todas as lojas.\n2. Cupons do dia separados antes das 9h.\n3. Ritmo definido: ofertas espaçadas, nada de madrugada.\n4. Um número reserva se o principal cair.\n\nSalve para o 12.12 também.\nQuer isso rodando sozinho? Link na bio.",
+  "hashtags": [
+    "shopee",
+    "1111shopee",
+    "achadinhosshopee",
+    "afiliadashopee",
+    "grupodeachadinhos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "11.11 é amanhã. Seu grupo está *pronto*?",
+      "sub": "Checklist rápido para hoje à noite.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "numero": 1,
+      "titulo": "Link de afiliado *certo*",
+      "corpo": "Confira se ele está certo em todas as lojas que você divulga."
+    },
+    {
+      "tipo": "texto",
+      "numero": 2,
+      "titulo": "Cupons *separados*",
+      "corpo": "Separe os cupons do dia antes das 9h."
+    },
+    {
+      "tipo": "texto",
+      "numero": 3,
+      "titulo": "Ritmo *definido*",
+      "corpo": "Ofertas espaçadas ao longo do dia. Nada de madrugada."
+    },
+    {
+      "tipo": "texto",
+      "numero": 4,
+      "titulo": "Número *reserva*",
+      "corpo": "Tenha outro WhatsApp pronto se o seu cair."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Salve este checklist para o *12.12*.",
+      "sub": "No Flash Grupos, o ritmo já vem pronto e até 3 números revezam.",
+      "botao": "Teste 7 dias: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

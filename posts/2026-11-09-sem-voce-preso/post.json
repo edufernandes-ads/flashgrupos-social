@@ -1,0 +1,75 @@
+{
+  "data": "2026-11-09",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "legenda": "Seu grupo de ofertas, sem prender você no celular.\n\nAchar produto, gerar link, cupom, texto, grupo por grupo.\nNa Black November isso vira o dia inteiro no celular.\nO Flash Grupos monta cada oferta no seu padrão, com o seu link, e envia sozinho.\nA preguiça descansa. O grupo trabalha.\n\nSiga para o mês inteiro de dicas da Black.\nTeste 7 dias com garantia: link na bio.",
+  "hashtags": [
+    "achadinhos",
+    "grupodeofertas",
+    "blacknovember",
+    "automacaowhatsapp",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Seu grupo de ofertas, sem *prender você* no celular.",
+      "mascote": true
+    },
+    {
+      "tipo": "lista",
+      "titulo": "A rotina na mão:",
+      "icone": "x",
+      "itens": [
+        "Achar produto",
+        "Gerar link",
+        "Colocar cupom",
+        "Escrever o texto",
+        "Mandar grupo por grupo"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Agora repete isso o *dia inteiro*.",
+      "corpo": "Na Black November."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E a sua *família*?",
+      "corpo": "E o seu almoço?\nE o seu sono?"
+    },
+    {
+      "tipo": "capa",
+      "titulo": "Prazer, *Flash Grupos*.",
+      "sub": "A preguiça descansa. O grupo trabalha.",
+      "mascote": true
+    },
+    {
+      "tipo": "tela",
+      "imagem": "fila.jpg",
+      "recorte": [
+        0.345,
+        0.495,
+        0.655,
+        0.81
+      ],
+      "titulo": "Ele monta a oferta no *seu padrão*, com o seu link, e envia sozinho."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Siga para o mês inteiro de *dicas da Black*.",
+      "botao": "Teste 7 dias com garantia: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ],
+  "tema_usado": "black"
+}

@@ -1,0 +1,54 @@
+{
+  "data": "2026-11-16",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "legenda": "E se o seu número cair no meio da Black Friday?\n\nCom o time de WhatsApp do Flash Grupos, até 3 números revezam os envios.\nOs envios ficam divididos entre os números.\nSe um cai, os outros assumem, sem repetir oferta.\nE você recebe um aviso no WhatsApp.\n\nTeste 7 dias com garantia: link na bio.",
+  "hashtags": [
+    "blackfriday",
+    "gruposdewhatsapp",
+    "automacaowhatsapp",
+    "grupodeofertas"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "E se o seu número cair no meio da *Black Friday*?",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Até *3 números* revezando.",
+      "corpo": "Com o time de WhatsApp, os envios ficam divididos entre os números."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Se um cai, os outros *assumem*.",
+      "corpo": "Sem repetir oferta. E você recebe um aviso no WhatsApp."
+    },
+    {
+      "tipo": "tela",
+      "imagem": "dashboard.jpg",
+      "recorte": [
+        0.025,
+        0.368,
+        0.3935,
+        0.5
+      ],
+      "titulo": "E o painel mostra o que *precisa de atenção*."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "O grupo *não para*.",
+      "botao": "Teste 7 dias: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+  ],
+  "tema_usado": "black"
+}

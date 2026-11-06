@@ -1,0 +1,493 @@
+Flash Grupos · Automação para grupos de ofertas no WhatsApp
+Black Natalina
+no Flash Grupos: seus grupos vendendo no automático na maior temporada de compras do ano.
+Ver planos
+Flash Grupos
+Recursos
+Time de WhatsApp
+Como funciona
+Planos
+Dúvidas
+Entrar
+Ver planos
+Automação para grupos de achadinhos no WhatsApp
+Seu grupo de ofertas,
+sem você preso nele.
+Achar produto, gerar link, colocar cupom, escrever a mensagem e mandar em cada grupo. O Flash Grupos faz tudo isso: monta cada oferta no seu padrão, com o seu link de afiliado, e envia nos seus grupos de forma automática.
+Quero meu tempo de volta
+A partir de R$ 79,90 por mês, com até 3 WhatsApps conectados. Sem fidelidade e com 7 dias de garantia.
+VIP Fitness da Ana
+1.024 participantes
+HOJE
+Enviado por
+Número 1 do time
+Ofertas enviadas hoje
+Como a automação trabalha
+Você liga uma vez.
+O grupo roda sozinho.
+Já vem tudo pronto com as regras recomendadas. Personalizar é opcional: só se você quiser.
+No automático
+Liga uma vez. O grupo roda sozinho.
+Ele pega as ofertas dos grupos que você escolher (ou, no Pro e no Scale, busca sozinho os produtos com mais comissão no seu nicho), monta cada oferta com o seu link e o seu cupom e envia nos seus grupos ao longo do dia. Você não precisa aprovar, escrever nem programar nada.
+Já vem com as regras recomendadas: horário, intervalo e limite por grupo
+Shopee e Mercado Livre, com o seu link de afiliado
+Não repete produto e não envia de madrugada
+painel.redirectpro.app
+demonstração
+AUTOMAÇÃO
+Envio automático
+Rodar sozinho
+Desligado
+Regras recomendadas
+09h às 21h
+a cada 7 a 10 min
+Enviadas hoje
+Você tocou no celular
+0 vezes
+Ligue e ele faz o resto
+20:30
+Garrafa térmica 1L
+3 grupos
+20:00
+Fone bluetooth com cancelamento
+3 grupos
+19:30
+Kit 3 leggings cintura alta
+3 grupos
+VIP Fitness da Ana
+1.024 participantes
+Kit 3 leggings cintura alta
+Por R$ 89,90
+Cupom:
+SHP10
+s.shopee.com.br/4fQ9x
+19:30
+Fone bluetooth com cancelamento
+Por R$ 179,90
+amzn.to/3kR2v
+20:00
+Garrafa térmica 1L
+Por R$ 149,00
+meli.la/2xK8p
+20:30
+Se quiser colocar a sua mão
+Tudo já vem pronto.
+Personalizar é opcional.
+Quem gosta de controlar cada detalhe pode. Quem não quer, liga o automático e esquece.
+Aprovar antes de enviar
+OPCIONAL
+Prefere ver cada oferta antes de sair? Deixe a fila no modo aprovação: tudo chega pronto e você envia com um toque, ou agenda para depois.
+Oferta repetida é barrada sozinha
+Link que não converte fica bloqueado e não vai para o grupo
+painel.redirectpro.app
+demonstração
+AUTOMAÇÃO
+Fila de envios
+Recebidas hoje
+Envios hoje
+Cole um link de produto (Shopee, Mercado Livre, Amazon, Magalu)
+Enviar
+Para aprovar
+Agendadas 1
+Enviadas
+Bloqueadas 0
+Gerando o seu link de afiliado...
+Agora · Shopee
+Para aprovar
+Kit 3 leggings cintura alta: conforto pro treino
+De: R$ 129,90
+Por: R$ 89,90
+Cupom: SHP10
+s.shopee.com.br/4fQ9x
+Enviar
+Editar
+Agendar
+há 28 min · Magalu
+Para aprovar
+Air fryer 4L: crocante sem óleo
+De: R$ 399,00
+Por: R$ 279,00
+magazinevoce.com.br/loja
+Enviar
+Editar
+Escolher os produtos você mesma
+OPCIONAL
+Quer escolher a dedo? Busque pelas palavras do seu nicho e veja os produtos com mais comissão e mais vendas, já com o seu link.
+Shopee e Mercado Livre
+Marca o que você já enviou para não repetir
+painel.redirectpro.app
+demonstração
+AUTOMAÇÃO
+Vitrine de produtos
+Shopee
+Mercado Livre
+Busque pelas palavras do seu nicho
+Buscar
+Mais comissão
+Mais vendas
+Menor preço
+Air fryer 4L digital
+R$ 279,00
+Comissão 12% · R$ 33,48
+3,2 mil vendidos
+Enviar para a fila
+Air fryer 5,5L inox
+R$ 349,90
+Comissão 10% · R$ 34,99
+1,8 mil vendidos
+Enviar para a fila
+Air fryer 3,2L compacta
+R$ 219,90
+Comissão 11% · R$ 24,19
+5,1 mil vendidos
+Enviar para a fila
+Mudar o jeito da mensagem
+OPCIONAL
+O modelo recomendado já vem pronto em cada loja. Se quiser, troque o estilo da chamada criada pela IA e veja a prévia igual ao WhatsApp.
+Estilos Padrão, Urgência, Desejo e Humor
+Cupom entra sozinho quando existe
+painel.redirectpro.app
+demonstração
+AUTOMAÇÃO
+Modelo da mensagem
+Shopee
+Mercado Livre
+Modelo
+{nome}: {chamada}
+De: {preco_de}
+Por: {preco}
+{link}
+Estilo da chamada com IA
+Padrão
+Urgência
+Desejo
+Humor
+Inserir
+Cupom
+Link
+Preço
+Prévia no WhatsApp
+Kit 3 leggings:
+Conforto pro treino todo dia
+De: R$ 129,90
+Por: R$ 89,90
+Cupom: SHP10
+s.shopee.com.br/4fQ9x
+19:02
+Ajustar as regras do automático
+OPCIONAL
+Horário, intervalo, palavras do nicho e produtos por rodada já vêm no recomendado. Mexa só se quiser.
+Janela de envio e intervalo com ritmo de gente
+Palavras para buscar só o seu nicho
+painel.redirectpro.app
+demonstração
+AUTOMAÇÃO
+Envio
+Enviar sozinho
+Disparo automático dentro das suas regras
+Desligado
+Palavras para buscar
+Ex.: air fryer, legging, organizador
+Janela de envio
+09h às 21h
+Intervalo
+7 a 10 min
+Produtos por rodada
+1 a 3
+Salvar
+Próxima rodada em 8 min
+19:30
+· Legging cintura alta enviada em 3 grupos
+Enviada
+Mandar uma oferta pelo celular
+OPCIONAL
+Achou uma promoção boa? Mande o link num grupo só seu e ele responde com a oferta pronta e envia nos seus grupos.
+Agende, salve na fila ou peça uma prévia
+Aceita Shopee, Mercado Livre, Amazon e Magalu
+painel.redirectpro.app
+demonstração
+Meu disparo
+só você
+Mande um link e eu monto a oferta com o seu link de afiliado.
+19:00
+agendar 20:00 s.shopee.com.br/produto/123
+19:02
+Agendado para 20:00 em 3 grupos.
+Kit 3 leggings · R$ 89,90 · cupom SHP10
+s.shopee.com.br/4fQ9x
+19:02
+Mensagem
+painel.redirectpro.app
+demonstração
+Cupons
+Código
+SHP10
+Benefício
+10% OFF
+Adicionar
+SHP10
+10% OFF acima de R$ 79
+até 23:59
+AMZ15
+15% OFF em eletrônicos
+até 20/10
+Cupons
+NOVO
+Biblioteca com regras e valor máximo, cupons do dia e uma página pública de cupons para o seu grupo.
+painel.redirectpro.app
+demonstração
+Segmentos
++ Adicionar
+Principal
+Fitness
+Casa
+Nome do segmento
+Criar
+Cada segmento tem os seus grupos, regras e dados de afiliado.
+Segmentos
+Fitness, casa, pet: cada nicho com os seus grupos, regras e dados de afiliado.
+painel.redirectpro.app
+demonstração
+Mensagem livre
+Mensagem
+Enquete
+Pergunta
+Escreva a pergunta
+Opções
+3 grupos do segmento Fitness
+Enviar
+Mensagem livre e enquetes
+NOVO
+Avisos, enquetes e cupons para os grupos de um segmento, sem sair do painel.
+painel.redirectpro.app
+demonstração
+Está tudo funcionando?
+Verificar
+WhatsApp conectado
+verificando
+Grupos escolhidos
+verificando
+Dados de afiliado
+verificando
+Fila rodando
+verificando
+Tudo funcionando
+Passo a passo guiado
+NOVO
+O painel mostra a próxima etapa e avisa se está tudo funcionando: verde, amarelo ou vermelho.
+A conta que ninguém faz
+Quanto do seu dia vai embora
+montando oferta?
+Estimativa: uns 3 minutos para montar cada oferta (achar, gerar o link, cupom e texto) e uns 30 segundos para mandar em cada grupo. Ajuste para a sua operação.
+Ofertas por dia
+Grupos de envio
+Hoje, na mão
+1h30
+por dia, cerca de
+horas por mês
+Com o Flash Grupos, você recupera
+por mês. Uns 10 minutos por dia para aprovar a fila, ou zero no automático.
+Time de WhatsApp
+Até 3 números revezando.
+O grupo não para.
+Os envios são divididos entre os números conectados: cada oferta sai pelo que enviou menos no dia. Se um número cair ou for limitado, os outros assumem sozinhos, sem repetir oferta.
+Menos envios por número, menos risco de bloqueio
+Número limitado pausa 2 horas e os outros seguem
+Cada número com nome próprio no seu celular
+WhatsApp no Start
+WhatsApps no Pro
+WhatsApps no Scale
+Simulação ao vivo
+Número 1
+Conectado
+14 envios
+Número 2
+Conectado
+13 envios
+Número 3
+Conectado
+6 envios
+Como funciona
+No ar em
+quatro passos.
+painel.redirectpro.app
+demonstração
+Time de WhatsApp
+Número 1
+Desconectado
+Conectar
+Número 2
+Opcional
+Leia com o WhatsApp do número
+Conecte o WhatsApp
+Pelo QR Code ou pelo código do seu número. Leva menos de 1 minuto.
+painel.redirectpro.app
+demonstração
+Grupos de envio
+#01 Achados do Edu
+1.010 membros
+Achadinhos Fitness
+850 membros
+Promo Casa
+640 membros
+Nenhum grupo selecionado
+Salvar
+Escolha os grupos
+Marque em quais ele envia. O resto já vem no recomendado.
+painel.redirectpro.app
+demonstração
+Seus dados de afiliado
+Etiqueta do Mercado Livre
+sua etiqueta
+Tag da Amazon
+sua-tag-20
+Shopee conectada
+Salvar
+Cole seus dados de afiliado
+Shopee, Mercado Livre, Amazon e Magalu. O painel mostra onde achar cada um.
+painel.redirectpro.app
+demonstração
+Visão geral
+Envio automático
+Ofertas enviadas hoje
+sem você tocar no celular
+Envios por hora
+Ligue o automático
+Pronto. Daqui pra frente o grupo roda sozinho. Ajustar é opcional.
+Para completar a operação
+Encha os grupos e
+saiba quem ficou.
+painel.redirectpro.app
+demonstração
+Redirecionador
+redirectpro.app/r/
+Copiar
+#01 Achados do Edu
+980/1.000
+Recebendo
+#02 Achados do Edu
+120/1.000
+Na fila
+Link que abre direto no WhatsApp
+Um link fixo para anúncio, bio e stories. Abre no app mesmo dentro do Instagram, e quando o grupo lota o próximo assume. Página de captura com Pixel inclusa.
+painel.redirectpro.app
+demonstração
+Análise de grupos
+Últimos 7 dias
+Entraram
+Saíram
+Ficaram
+Análise de grupos
+Entradas, saídas e quem ficou. Por grupo, por dia e por segmento.
+Planos
+Escolha o plano da
+sua operação.
+Todos enviam sozinho nos seus grupos. Sem fidelidade, 7 dias de garantia, e você muda de plano quando a operação crescer.
+Start
+Para começar a automatizar um nicho.
+,90
+/mês
+1 WhatsApp conectado
+Automação
+Grupos de envio:
+Grupos de monitoramento:
+Segmentos (nichos):
+Pega as ofertas e envia sozinho
+Chamada com IA, cupons e vitrine
+Busca produtos sozinho
+Comandos pelo grupo de disparo
+Assistente de compras no privado
+Tráfego
+Links que abrem no WhatsApp e páginas com Pixel:
+Ilimitados
+Pixel do Meta, GA4 e TikTok
+Análise de grupos:
+10 grupos
+Equipe
+Pessoas na equipe:
+Sua marca na tela de abertura
+Assinar o Start
+Mais indicado
+Pro
+Para mais de um nicho, com o robô buscando produtos sozinho.
+149
+,90
+/mês
+2 WhatsApps revezando
+Automação
+Grupos de envio:
+Grupos de monitoramento:
+Segmentos (nichos):
+Pega as ofertas e envia sozinho
+Chamada com IA, cupons e vitrine
+Busca produtos sozinho
+Comandos pelo grupo de disparo
+Assistente de compras no privado:
+100 conversas por dia
+Tráfego
+Links que abrem no WhatsApp e páginas com Pixel:
+Ilimitados
+Pixel do Meta, GA4 e TikTok
+Análise de grupos:
+30 grupos
+Equipe
+Pessoas na equipe:
+Sua marca na tela de abertura
+Assinar o Pro
+Scale
+Para operações grandes, lançamentos e agências.
+249
+,90
+/mês
+3 WhatsApps revezando
+Automação
+Grupos de envio:
+Grupos de monitoramento:
+Segmentos (nichos):
+Pega as ofertas e envia sozinho
+Chamada com IA, cupons e vitrine
+Busca produtos sozinho
+Comandos pelo grupo de disparo
+Assistente de compras no privado:
+300 conversas por dia
+Tráfego
+Links que abrem no WhatsApp e páginas com Pixel:
+Ilimitados
+Pixel do Meta, GA4 e TikTok
+Análise de grupos:
+100 grupos
+Equipe
+Pessoas na equipe:
+Sua marca na tela de abertura
+Assinar o Scale
+Só precisa do link que abre no app, das páginas e da análise de grupos, sem a automação?
+Plano Tráfego a partir de R$ 29 por mês
+GARANTIA DE 7 DIAS · RISCO ZERO · REEMBOLSO DE 100% ·
+DIAS DE GARANTIA
+Teste por 7 dias. Se não gostar, seu dinheiro volta.
+Assine, conecte o WhatsApp e deixe a automação rodar nos seus grupos. Se não fizer sentido, peça o reembolso pela Kiwify em até 7 dias. O acesso chega no seu e-mail logo após o pagamento.
+Dúvidas.
+Preciso configurar tudo?
+Não. Você conecta o WhatsApp, escolhe os grupos, cola os seus dados de afiliado e liga o automático. Modelo da mensagem, horário, intervalo e limite por grupo já vêm no recomendado. Se um dia quiser ajustar algo, está tudo no painel.
+De onde vêm as ofertas?
+Da vitrine (produtos com mais comissão e vendas nas palavras do seu nicho), do disparo automático, de links que você cola no painel ou manda no grupo de disparo e de outros grupos que você escolher acompanhar. Em todos os casos a oferta sai no seu padrão, com o seu link.
+As ofertas saem com o meu link de afiliado?
+Sim. Você cadastra a etiqueta do Mercado Livre, os dados da Shopee, a tag da Amazon e a loja Magalu. Todo link é trocado antes de sair. Se um link não converter, a oferta fica bloqueada e não vai para o grupo.
+Para que servem 2 ou 3 números?
+Os envios são divididos entre eles. Cada número envia menos, o que diminui o risco de bloqueio, e se um cair ou for limitado os outros continuam sem repetir oferta.
+O grupo vai ficar parecendo robô?
+Você controla o intervalo entre envios, o máximo por dia e os horários. A mensagem sai no seu modelo, com foto em alta, e a chamada pode ser criada pela IA sem mudar preço nem link.
+Conectar o WhatsApp é seguro?
+A conexão é como a do WhatsApp Web. O Flash Grupos só envia nos grupos que você escolher e não lê conversas privadas (só se você ligar o Assistente de compras, que responde quem chamar no privado). Dos participantes, guarda só os 4 últimos dígitos do número. Você desconecta quando quiser.
+Preciso ter site ou saber programar?
+Não. Você faz tudo pelo painel, com um passo a passo guiado. A página de captura fica hospedada no Flash Grupos.
+Como recebo o acesso e como cancelo?
+Logo após o pagamento você recebe um e-mail para criar sua senha. O cancelamento é pela Kiwify, sem fidelidade, e você usa até o fim do período já pago.
+Deixe o grupo
+trabalhar por você.
+Ofertas saindo no seu padrão, com o seu link, nos seus grupos, no seu horário. E o seu dia de volta.
+Escolher meu plano
+Já sou cliente, entrar
+© 2026 Flash Grupos. Pagamento seguro pela Kiwify.
+Termos
+Privacidade

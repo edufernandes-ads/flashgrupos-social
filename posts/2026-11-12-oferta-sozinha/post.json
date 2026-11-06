@@ -1,0 +1,71 @@
+{
+  "data": "2026-11-12",
+  "hora": "09:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "legenda": "Como uma oferta sai sozinha, do link até o grupo.\n\nChega uma oferta dos grupos que você escolheu acompanhar.\nO Flash Grupos troca pelo seu link de afiliado e coloca o seu cupom.\nMonta no seu modelo e coloca na fila.\nEnvia das 9h às 21h, a cada 7 a 10 min, sem repetir produto.\n\nVocê liga uma vez. Link na bio.",
+  "hashtags": [
+    "afiliados",
+    "afiliadoshopee",
+    "afiliadomercadolivre",
+    "automacaowhatsapp",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Como uma oferta sai *sozinha*, do link até o grupo.",
+      "mascote": true
+    },
+    {
+      "tipo": "tela",
+      "imagem": "grupos.jpg",
+      "recorte": [
+        0.04,
+        0.455,
+        0.6,
+        0.595
+      ],
+      "titulo": "Chega uma oferta dos grupos que você *escolheu acompanhar*."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Ele troca pelo *seu link* de afiliado.",
+      "corpo": "E coloca o seu cupom."
+    },
+    {
+      "tipo": "tela",
+      "imagem": "fila.jpg",
+      "recorte": [
+        0.03,
+        0.495,
+        0.34,
+        0.85
+      ],
+      "titulo": "Monta no seu modelo e entra na *fila*."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Sai nos seus grupos *no ritmo certo*",
+      "itens": [
+        "Das 9h às 21h",
+        "A cada 7 a 10 min",
+        "Sem repetir produto"
+      ]
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Você liga uma vez. O grupo roda *sozinho*.",
+      "botao": "Teste 7 dias: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

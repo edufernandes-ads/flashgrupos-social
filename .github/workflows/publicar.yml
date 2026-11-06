@@ -1,0 +1,35 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    # a cada 30 min, das 8h às 22h de Brasília (11h às 01h UTC)
+    - cron: "*/30 11-23,0-1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publicar o post da vez
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IMAGE_BASE_URL: ${{ vars.IMAGE_BASE_URL }}
+        run: python3 scripts/publish.py
+      - name: Gravar o status
+        run: |
+          if [ -n "$(git status --porcelain posts)" ]; then
+            git config user.name "Flash Grupos Social"
+            git config user.email "social@flashgrupos.com"
+            git add posts
+            git commit -m "Publicado no Instagram"
+            git push
+          fi
