@@ -76,6 +76,11 @@ Leve, direto, com humor sutil da preguiça. Exemplos de frases da marca:
 - "A preguiça descansa. O grupo trabalha."
 - "Quero meu tempo de volta."
 
+## Vantagens primeiro (regra do Edu, 06/11/2026)
+- Fixados, capas e os primeiros slides de qualquer carrossel falam só de vantagens, ganhos de tempo e solução. Nunca abrir com risco, ban, limitação ou "depende".
+- Objeções e riscos (ban, limites, o que não funciona) só aparecem em posts próprios de dúvidas, para quem já conhece as vantagens, e sempre respondidos pelo lado da solução ("como proteger seu número"), sem negar o que é verdade.
+- Nunca afirmar "risco zero" ou "não dá ban".
+
 ## Voz: sem cara de IA (pedido do Edu, 06/11/2026)
 O conteúdo nasce do mercado de afiliados (estrategia/PESQUISA-PUBLICO.md), não da página de vendas. O produto aparece no máximo em 1 slide e só quando resolve a dor do post. A maioria dos posts ensina, esclarece ou conta algo sem vender.
 
