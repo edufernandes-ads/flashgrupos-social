@@ -158,3 +158,8 @@ Regra: **3 a 5 por post**, 1 grande + 2 médias + 1 ou 2 de nicho, sempre ligada
 - 01/12 e 31/12: revisão geral da campanha e ajuste do mix para janeiro (tema "padrao").
 
 **Pendências antes de 09/11:** prints novos no tema violeta; definir se o "Comenta GRUPO" vai ter automação de DM (enquanto não tiver, usar só link na bio); foto real do Edu para o post de bastidor (saiu da leva de 09 a 20/11 enquanto a foto não existe); gerar as cenas da preguiça de estrategia/PROMPTS-IMAGENS.md.
+
+## Decisão do fixado 3 (06/11/2026, estrategista + inovação)
+- Fixados seguem identidade (1, o que faz), demonstração (2, como funciona) e OFERTA (3).
+- Fixado 3 = "Seus 7 dias de teste, dia por dia": roteiro real da garantia seguindo as etapas guiadas do painel, cada dia com tela real. Quebra o medo de pagar e não saber usar. Não promete venda nos 7 dias.
+- Viram posts de feed na fila: "A venda que seu grupo ainda não fez" (estrategista) e "Acha os 4 erros que comem sua comissão" (inovação). Quiz de plano vira destaque "Planos" nos stories.

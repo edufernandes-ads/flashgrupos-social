@@ -1,0 +1,96 @@
+{
+  "data": "2026-11-06",
+  "hora": "05:40",
+  "formato": "carrossel",
+  "tema": "padrao",
+  "pauta": "Fixado 3 (oferta): os 7 dias de teste, dia por dia, com cena da rotina e o que fazer em cada dia",
+  "legenda": "o que mais trava quem pensa em testar não é o preço. é pagar, abrir o painel, não saber por onde começar e deixar a garantia vencer sem ter usado.\n\nentão aqui vai o roteiro. uma coisa por dia, no tempo que sobrar:\n\ndia 1 conecta o número\ndia 2 deixa a mensagem com a sua cara\ndia 3 marca os grupos\ndia 4 aprova uma por uma, no grupo menor\ndia 5 confere se está tudo verde\ndia 6 deixa um grupo no automático\ndia 7 olha os envios da semana e decide\n\nno fim da semana você vai saber se dá pra parar de colar link o dia todo e ir buscar as crianças sem o grupo esfriar.\n\nvenda em 7 dias eu não prometo, isso depende do seu nicho e dos seus grupos.\n\nnão serviu? pede o reembolso pela Kiwify dentro dos 7 dias. sem fidelidade, planos a partir de R$ 79,90.\n\nsalva pra seguir junto 📌\n\nlink na bio",
+  "hashtags": [
+    "grupodeachadinhos",
+    "afiliadashopee",
+    "afiliadamercadolivre",
+    "automacaowhatsapp",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "selo": "COMECE AQUI  3/3",
+      "titulo": "Seus 7 dias de teste, *dia por dia*.",
+      "sub": "Uma coisa por dia, no tempo que sobrar. No fim da semana, você decide se fica.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "numero": "1",
+      "titulo": "Dia 1, no sofá: *conecta o seu número*.",
+      "corpo": "Lê o QR Code, igual no WhatsApp Web. Dali em diante, o próprio painel mostra qual é a próxima etapa."
+    },
+    {
+      "tipo": "texto",
+      "numero": "2",
+      "titulo": "Dia 2, no almoço: *a mensagem com a sua cara*.",
+      "corpo": "Cola sua etiqueta do Mercado Livre e seus dados da Shopee. Vê a prévia da oferta igual ao WhatsApp."
+    },
+    {
+      "tipo": "tela",
+      "titulo": "Dia 3: marca os grupos, *em dois passos*.",
+      "imagem": "grupos.jpg",
+      "recorte": [
+        0.03,
+        0.335,
+        0.68,
+        0.6
+      ],
+      "legenda": "Primeiro de onde as ofertas vêm, depois onde elas saem. A partir daí, a fila começa a encher."
+    },
+    {
+      "tipo": "texto",
+      "numero": "4",
+      "titulo": "Dia 4, no café: *aprova uma por uma*.",
+      "corpo": "Começa pelo seu grupo menor. É o dia de conferir se o link e o cupom saem do jeito que você quer."
+    },
+    {
+      "tipo": "texto",
+      "numero": "5",
+      "titulo": "Dia 5: pergunta ao painel *se está tudo funcionando*.",
+      "corpo": "Verde, segue. Amarelo ou vermelho, ele aponta a etapa que falta e você arruma ali mesmo."
+    },
+    {
+      "tipo": "texto",
+      "numero": "6",
+      "titulo": "Dia 6, buscando as crianças: *um grupo no automático*.",
+      "corpo": "Só aquele que você mais confia. Você volta pra casa e as ofertas da tarde já saíram, com o seu link."
+    },
+    {
+      "tipo": "texto",
+      "numero": "7",
+      "titulo": "Dia 7: olha a semana e *decide*.",
+      "corpo": "Em Resultados aparece quantas ofertas saíram em cada grupo e de qual loja. Coube na rotina? Segue no plano."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Travou em algum dia? *Tem gente do outro lado.*",
+      "corpo": "O botão de ajuda fica no canto de toda tela. Se a resposta pronta não resolver, ele te passa para uma pessoa."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "O dia 1 pode ser *hoje à noite*.",
+      "sub": "7 dias de garantia: não serviu, você pede o reembolso e recebe tudo de volta. Sem fidelidade.",
+      "botao": "Teste 7 dias: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg",
+    "slide-08.jpg",
+    "slide-09.jpg",
+    "slide-10.jpg"
+  ],
+  "tema_usado": "padrao"
+}

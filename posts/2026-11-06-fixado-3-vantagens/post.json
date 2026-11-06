@@ -3,7 +3,7 @@
   "hora": "05:10",
   "formato": "carrossel",
   "tema": "padrao",
-  "status": "publicado",
+  "status": "substituido",
   "via": "navegador",
   "legenda": "fim do dia, você abre o WhatsApp e o seu grupo trabalhou sozinho.\n\nas ofertas saíram das 9h às 21h, todas com o seu link de afiliado e o seu cupom. a promoção relâmpago das 15h foi pro grupo na hora. e você passou o dia fazendo outra coisa.\n\né isso que o Flash Grupos faz: tira de você a parte chata e repetitiva e deixa o grupo rodando no ritmo certo.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
@@ -78,5 +78,6 @@
     "slide-07.jpg",
     "slide-08.jpg"
   ],
-  "tema_usado": "padrao"
+  "tema_usado": "padrao",
+  "nota": "Trocado pelo fixado-3-oferta (06/11)."
 }
