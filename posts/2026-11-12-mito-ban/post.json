@@ -3,71 +3,65 @@
   "hora": "09:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Mito x verdade: ban do WhatsApp",
-  "legenda": "\"vou tomar ban por ter grupo de oferta?\"\n\nsegundo matéria do Estado de Minas (fev/2026), a Meta baniu mais de 6,8 milhões de contas de WhatsApp entre janeiro e junho de 2025. as causas mais citadas: WhatsApp modificado (GB, Plus, Aero), disparo em massa por ferramenta não autorizada e mensagem para lista comprada. e desde 15/01/2026 o bloqueio a ferramentas não autorizadas ficou mais duro.\n\noutra coisa: desde 2024, quem é adicionado num grupo por um número desconhecido vê quem adicionou e há quanto tempo o grupo existe (TNH1). adicionar gente sem pedir queima o seu nome.\n\nmanda pra amiga que vive com medo de perder o número",
+  "pauta": "Dúvida respondida pelo lado da solução: número seguro e grupo vendendo",
+  "legenda": "5 hábitos de quem vive de grupo de ofertas e quer o número firme por muito tempo.\n\no que mais derruba conta de WhatsApp, segundo matéria do Estado de Minas (fev/2026): versão modificada do app (GB, Plus, Aero), disparo em massa por ferramenta não autorizada e mensagem para lista comprada. ter grupo de oferta, por si só, não está nessa lista.\n\ne desde 2024 quem é adicionado num grupo vê quem adicionou e há quanto tempo o grupo existe (TNH1). por isso grupo bom cresce com convite, não adicionando gente.\n\nno Flash Grupos o envio já vem espaçado, só de dia, com até 3 números revezando e aviso no seu WhatsApp se algo parar.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "whatsapp",
     "gruposdewhatsapp",
     "grupodeachadinhos",
-    "afiliadainiciante"
+    "afiliadainiciante",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "Grupo de ofertas dá ban? *Mito ou verdade*.",
+      "titulo": "Número seguro e *grupo vendendo todo dia*.",
+      "sub": "5 hábitos de quem vive de grupo de ofertas.",
       "mascote": true
     },
     {
-      "tipo": "numero",
-      "grande": "6,8 mi",
-      "titulo": "de contas de WhatsApp banidas de janeiro a junho de 2025.",
-      "corpo": "Dado da Meta, publicado pelo Estado de Minas."
-    },
-    {
-      "tipo": "compara",
-      "titulo": "Segundo a matéria",
-      "esquerda": {
-        "rotulo": "O medo",
-        "itens": [
-          "Ter grupo de oferta",
-          "Mandar link de loja"
-        ]
-      },
-      "direita": {
-        "rotulo": "O que derruba",
-        "itens": [
-          "WhatsApp GB, Plus",
-          "Disparo em massa não autorizado",
-          "Lista comprada"
-        ]
-      }
+      "tipo": "texto",
+      "numero": 1,
+      "titulo": "Um chip *só para os grupos*.",
+      "corpo": "Seus contatos e conversas pessoais ficam no outro número. O grupo ganha casa própria."
     },
     {
       "tipo": "texto",
-      "titulo": "Desde janeiro a Meta *apertou o cerco*.",
-      "corpo": "O bloqueio a ferramentas não autorizadas ficou mais duro. Vale saber como a sua se conecta."
-    },
-    {
-      "tipo": "lista",
-      "titulo": "Para proteger o seu número",
-      "itens": [
-        "Chip só para os grupos",
-        "Nada de WhatsApp modificado",
-        "Nunca adicionar gente sem permissão",
-        "Envio espaçado, sem madrugada"
-      ]
+      "numero": 2,
+      "titulo": "App original *do WhatsApp*.",
+      "corpo": "Versão modificada (GB, Plus, Aero) está entre as causas de bloqueio mais citadas (Estado de Minas)."
     },
     {
       "tipo": "texto",
-      "titulo": "E o WhatsApp mostra *quem te adicionou*.",
-      "corpo": "Desde 2024 aparece quem adicionou e a idade do grupo (TNH1). Adicionar sem pedir queima o seu nome."
+      "numero": 3,
+      "titulo": "Gente que *quis entrar*.",
+      "corpo": "Cresça por link de convite e anúncio. O WhatsApp mostra quem adicionou, e adicionar sem pedir queima seu nome."
+    },
+    {
+      "tipo": "texto",
+      "numero": 4,
+      "titulo": "Envio espaçado, *de dia*.",
+      "corpo": "Uma oferta a cada alguns minutos, das 9h às 21h. Nada de rajada nem madrugada."
+    },
+    {
+      "tipo": "texto",
+      "numero": 5,
+      "titulo": "Um número *de reserva*.",
+      "corpo": "Se um número cair, outro assume e o grupo continua recebendo oferta."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O Flash Grupos já vem *nesse ritmo*.",
+      "corpo": "Regras recomendadas prontas, até 3 números revezando e aviso no seu WhatsApp se algo parar."
     },
     {
       "tipo": "cta",
-      "titulo": "Manda para a amiga que tem medo de ban.",
-      "botao": "Enviar para alguém"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
@@ -75,7 +69,7 @@
     "slide-04.jpg",
     "slide-05.jpg",
     "slide-06.jpg",
-    "slide-07.jpg"
-  ],
-  "tema_usado": "black"
+    "slide-07.jpg",
+    "slide-08.jpg"
+  ]
 }

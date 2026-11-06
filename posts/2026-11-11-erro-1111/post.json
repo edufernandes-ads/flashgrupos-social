@@ -3,53 +3,55 @@
   "hora": "12:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Erro comum no 11.11 (produto em 1 slide)",
-  "legenda": "hoje é o dia em que mais dá vontade de mandar tudo de uma vez. e é o dia em que mais gente silencia grupo.\n\n18% das pessoas bloqueiam empresa desconhecida no WhatsApp antes mesmo de ler (Opinion Box 2025, citado pelo Estado de Minas). grupo que parece disparo entra nessa conta.\n\nritmo bom: uma oferta a cada 7 a 10 minutos, produto diferente, cupom testado e pausa à noite.\n\nse quiser esse ritmo no automático, o Flash Grupos já vem assim. teste 7 dias: link na bio\n\nbom 11.11 🛍️",
+  "pauta": "Ritmo de envio no 11.11 (produto em 1 slide)",
+  "legenda": "hoje dá vontade de mandar tudo de uma vez. quem espalha as ofertas no dia vende até a noite.\n\no ritmo que funciona: uma oferta a cada 7 a 10 minutos, produto diferente a cada envio, cupom testado e as melhores guardadas para manhã, almoço e noite.\n\ne tem um motivo para não exagerar: 18% das pessoas bloqueiam empresa desconhecida no WhatsApp antes de ler (Opinion Box 2025, citado pelo Estado de Minas). grupo com ritmo bom fica longe dessa conta.\n\nno Flash Grupos esse ritmo já vem pronto, das 9h às 21h. testa 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio\n\nbom 11.11 🛍️",
   "hashtags": [
     "1111shopee",
     "grupodeachadinhos",
     "grupodeofertas",
-    "afiliadashopee"
+    "afiliadashopee",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "O erro que esvazia grupo *no 11.11*.",
+      "titulo": "O ritmo que deixa o grupo *vendendo até a noite* no 11.11.",
       "mascote": true
     },
     {
       "tipo": "texto",
-      "titulo": "Mandar 40 ofertas *numa hora*.",
-      "corpo": "O celular vibra sem parar, a pessoa silencia o grupo e não volta. Em dia de promoção, isso é rápido."
+      "titulo": "Uma oferta a cada *7 a 10 minutos*.",
+      "corpo": "Dá tempo de ver, clicar e comprar antes da próxima. Grupo vivo das 9h às 21h."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O que segura o grupo *ligado*",
+      "itens": [
+        "Produto diferente a cada envio",
+        "Cupom testado antes",
+        "As melhores para manhã, almoço e noite",
+        "Pausa de madrugada"
+      ]
     },
     {
       "tipo": "numero",
       "grande": "18%",
       "titulo": "bloqueia empresa desconhecida antes de ler.",
-      "corpo": "Opinion Box 2025, citado pelo Estado de Minas. Grupo com cara de disparo entra nessa conta."
-    },
-    {
-      "tipo": "lista",
-      "titulo": "O que funciona melhor",
-      "itens": [
-        "1 oferta a cada 7 a 10 min",
-        "Produto diferente a cada envio",
-        "Cupom testado antes",
-        "Pausa à noite"
-      ]
+      "corpo": "Opinion Box 2025, no Estado de Minas. Grupo com ritmo e oferta boa fica longe dessa conta."
     },
     {
       "tipo": "texto",
       "titulo": "No Flash Grupos esse ritmo *já vem pronto*.",
-      "corpo": "Das 9h às 21h, uma oferta a cada 7 a 10 minutos, sem repetir produto."
+      "corpo": "Das 9h às 21h, sem repetir produto. Você aproveita o dia longe do celular."
     },
     {
       "tipo": "cta",
-      "titulo": "Bom 11.11 para você e para o seu grupo.",
-      "sub": "Quer o ritmo no automático? Teste 7 dias.",
-      "botao": "Link na bio"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Bom 11.11.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
@@ -57,6 +59,5 @@
     "slide-04.jpg",
     "slide-05.jpg",
     "slide-06.jpg"
-  ],
-  "tema_usado": "black"
+  ]
 }

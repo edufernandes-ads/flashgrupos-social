@@ -3,28 +3,30 @@
   "hora": "19:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Comparação de lojas: Shopee x Mercado Livre no grupo",
-  "legenda": "Shopee ou Mercado Livre no grupo de achadinhos? coloquei lado a lado.\n\nShopee: mais de 5 milhões de afiliados e pedidos via afiliados mais de 200% maiores em abril/2026 contra abril/2025 (dados da empresa, no O Povo). ticket baixo e datas duplas todo mês.\n\nMercado Livre: programa de afiliados cresceu 342% em 2025, comissão de até 16% conforme a categoria e frete grátis a partir de R$ 19 (Exame).\n\nminha opinião: as duas. depender de um programa só ficou arriscado depois dos cortes.\n\nqual vende mais no seu grupo? comenta Shopee ou ML",
+  "pauta": "Comparação de lojas: Shopee e Mercado Livre no mesmo grupo (produto no fim)",
+  "legenda": "Shopee ou Mercado Livre no grupo de achadinhos? coloquei lado a lado e a minha resposta é: as duas.\n\nShopee: mais de 5 milhões de afiliados e pedidos via afiliados mais de 200% maiores em abril/2026 contra abril/2025 (dados da empresa, no O Povo). ticket baixo e datas duplas todo mês.\n\nMercado Livre: programa de afiliados cresceu 342% em 2025, comissão de até 16% conforme a categoria e frete grátis a partir de R$ 19 (Exame).\n\njuntas, uma cobre a outra. no Flash Grupos você escolhe quanto de cada loja vai para o grupo.\n\nqual vende mais no seu? comenta Shopee ou ML. e se quiser as duas no automático, testa 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "achadinhosshopee",
     "afiliadomercadolivre",
     "mercadolivre",
-    "grupodeachadinhos"
+    "grupodeachadinhos",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "Shopee ou Mercado Livre no grupo? *Comparei*.",
+      "titulo": "Shopee e Mercado Livre: *o melhor das duas*.",
+      "sub": "No mesmo grupo. Coloquei lado a lado.",
       "mascote": true
     },
     {
       "tipo": "compara",
-      "titulo": "Quem está crescendo",
+      "titulo": "As duas *estão crescendo*",
       "esquerda": {
         "rotulo": "Shopee",
         "itens": [
           "5 milhões de afiliados",
-          "Pedidos via afiliados +200% (O Povo)"
+          "Pedidos +200% (O Povo)"
         ]
       },
       "direita": {
@@ -37,11 +39,11 @@
     },
     {
       "tipo": "compara",
-      "titulo": "No dia a dia",
+      "titulo": "Onde cada uma *brilha*",
       "esquerda": {
         "rotulo": "Shopee",
         "itens": [
-          "Ticket baixo, compra por impulso",
+          "Ticket baixo, impulso",
           "Datas duplas: 11.11, 12.12"
         ]
       },
@@ -54,32 +56,23 @@
       }
     },
     {
-      "tipo": "compara",
-      "titulo": "O lado ruim",
-      "esquerda": {
-        "rotulo": "Shopee",
-        "itens": [
-          "Reclamações de corte de comissão sem aviso"
-        ]
-      },
-      "direita": {
-        "rotulo": "Mercado Livre",
-        "itens": [
-          "Muito mais gente disputando o mesmo clique"
-        ]
-      }
+      "tipo": "texto",
+      "titulo": "Juntas, *uma cobre a outra*.",
+      "corpo": "Comissão mudou numa? A outra segura. Faltou oferta boa de um lado, sobra do outro."
     },
     {
       "tipo": "texto",
-      "titulo": "Minha opinião: *as duas*.",
-      "corpo": "Depender de um programa só ficou arriscado. Muita afiliada já mistura Shopee e Mercado Livre no mesmo grupo."
+      "titulo": "As duas lojas *num lugar só*.",
+      "corpo": "O Flash Grupos monta ofertas das duas com o seu link e cupom. Você escolhe quanto vai de cada."
     },
     {
       "tipo": "cta",
-      "titulo": "Qual vende mais no seu grupo?",
-      "botao": "Comenta Shopee ou ML"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
@@ -87,6 +80,5 @@
     "slide-04.jpg",
     "slide-05.jpg",
     "slide-06.jpg"
-  ],
-  "tema_usado": "black"
+  ]
 }

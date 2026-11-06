@@ -3,19 +3,26 @@
   "hora": "19:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Dúvida respondida: NFS-e por marca na comissão extra da Shopee",
-  "legenda": "se você recebeu comissão extra paga por marca na Shopee, vale ler isso antes de dezembro.\n\ndesde 01/08/2026 essa comissão extra tem um modelo fiscal próprio: quem é PJ emite uma NFS-e para cada marca que pagou extra, e quem é pessoa física resolve RPA e imposto de renda com cada marca. segundo os contadores, MEI não serve para essa atividade. a Shopee diz que não vai reter nem atrasar pagamento por causa disso.\n\nfontes: DRE Contábil e Actana, que explicaram a mudança.\n\nnão sou contador. leva isso pro seu antes de decidir qualquer coisa.",
+  "pauta": "Dúvida respondida: NFS-e por marca na comissão extra da Shopee (produto no fim)",
+  "legenda": "a comissão extra de marca na Shopee continua caindo na conta. o que mudou foi a nota.\n\ndesde 01/08/2026 essa comissão extra tem um modelo fiscal próprio: quem é PJ emite uma NFS-e para cada marca que pagou extra, e quem é pessoa física resolve RPA e imposto de renda com cada marca. segundo os contadores, MEI não serve para essa atividade. a Shopee diz que não vai reter nem atrasar pagamento por causa disso.\n\nfontes: DRE Contábil e Actana.\n\nnão sou contador: leva isso pro seu antes de decidir. e se o tempo anda curto, o Flash Grupos posta as ofertas por você e sobra hora para organizar a parte de empresa.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "afiliadoshopee",
     "marketingdeafiliados",
     "afiliadainiciante",
-    "shopee"
+    "shopee",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "Ganhou comissão extra de marca na Shopee? *Lê isso*.",
+      "titulo": "Comissão extra de marca: *receba certinho*.",
+      "sub": "O que mudou em agosto, em 1 minuto.",
       "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "A Shopee *continua pagando*.",
+      "corpo": "Ela diz que não vai reter nem atrasar pagamento por causa da mudança. O que mudou foi a nota."
     },
     {
       "tipo": "texto",
@@ -40,11 +47,6 @@
       }
     },
     {
-      "tipo": "texto",
-      "titulo": "E o pagamento?",
-      "corpo": "A Shopee diz que não vai reter nem atrasar pagamento por causa da mudança."
-    },
-    {
       "tipo": "lista",
       "titulo": "Antes de dezembro",
       "itens": [
@@ -54,19 +56,25 @@
       ]
     },
     {
+      "tipo": "texto",
+      "titulo": "Menos hora postando, *mais hora para organizar*.",
+      "corpo": "O Flash Grupos manda as ofertas com o seu link e cupom. Sobra tempo para a empresa."
+    },
+    {
       "tipo": "cta",
-      "titulo": "Manda para a amiga afiliada que não sabe disso.",
-      "sub": "Não sou contador: confirme tudo com o seu.",
-      "botao": "Enviar para alguém"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sobre a nota, confirme com o seu contador.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
     "slide-03.jpg",
     "slide-04.jpg",
     "slide-05.jpg",
-    "slide-06.jpg"
-  ],
-  "tema_usado": "black"
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ]
 }

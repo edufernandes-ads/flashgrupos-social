@@ -3,37 +3,38 @@
   "hora": "20:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Curiosidade + planejamento: a quinta da Black Friday",
-  "legenda": "na Black Friday de 2025, a quinta vendeu mais que a sexta no e-commerce, por causa das compras antecipadas. os pedidos subiram 28% (8,69 milhões) e o ticket médio caiu 12,8%, para R$ 553,60. (Confi Neotrust, no Meio & Mensagem)\n\nmais pedido e valor menor é a cara do achadinho.\n\neste ano a Black cai em 27/11. então a sua quinta forte é 26/11, e o aquecimento começa já na segunda.\n\nsalva o plano e me diz: você começa a postar Black na segunda ou na quinta?",
+  "pauta": "Curiosidade + planejamento: a quinta da Black Friday (produto no fim)",
+  "legenda": "na Black Friday de 2025, a quinta vendeu mais que a sexta no e-commerce, por causa das compras antecipadas. os pedidos subiram 28% (8,69 milhões) e o ticket médio caiu 12,8%, para R$ 553,60. (Confi Neotrust, no Meio & Mensagem)\n\nmuito pedido de valor menor é a cara do achadinho.\n\neste ano a Black cai em 27/11. a sua quinta forte é 26/11, e o aquecimento começa na segunda.\n\numa semana inteira postando é muita hora de celular. o Flash Grupos manda as ofertas das 9h às 21h com o seu link e o seu cupom.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "blackfriday",
     "blacknovember",
     "achadinhos",
     "grupodeachadinhos",
-    "afiliadashopee"
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "Na última Black Friday, *a quinta vendeu mais*.",
+      "titulo": "Na última Black, *a quinta vendeu mais que a sexta*.",
+      "sub": "E isso muda o seu calendário deste ano.",
       "mascote": true
-    },
-    {
-      "tipo": "texto",
-      "titulo": "Não é chute.",
-      "corpo": "Em 2025 a quinta-feira vendeu mais que a sexta no e-commerce, por compras antecipadas (Confi Neotrust, no Meio & Mensagem)."
-    },
-    {
-      "tipo": "numero",
-      "grande": "-12,8%",
-      "titulo": "no ticket médio da Black de 2025.",
-      "corpo": "E 28% mais pedidos: 8,69 milhões. Muito pedido de valor menor. Cara de achadinho."
     },
     {
       "tipo": "numero",
       "grande": "26/11",
-      "titulo": "é a quinta da Black deste ano.",
-      "corpo": "A Black Friday cai na sexta, 27/11. O seu grupo começa a vender antes."
+      "titulo": "é a sua quinta forte deste ano.",
+      "corpo": "A Black cai na sexta, 27/11. Quem começa antes pega o cliente que compra adiantado."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por que a quinta *vendeu tanto*.",
+      "corpo": "Compra antecipada. Em 2025 a quinta superou a sexta no e-commerce (Confi Neotrust, no Meio & Mensagem)."
+    },
+    {
+      "tipo": "numero",
+      "grande": "+28%",
+      "titulo": "de pedidos na Black de 2025: 8,69 milhões.",
+      "corpo": "Com ticket médio 12,8% menor. Muito pedido de valor baixo: a cara do achadinho."
     },
     {
       "tipo": "lista",
@@ -46,19 +47,25 @@
       ]
     },
     {
+      "tipo": "texto",
+      "titulo": "Uma semana de oferta *sem você presa no celular*.",
+      "corpo": "O Flash Grupos posta das 9h às 21h, com o seu link e o seu cupom."
+    },
+    {
       "tipo": "cta",
-      "titulo": "Salva o plano da semana.",
-      "sub": "Na sexta tem o checklist final.",
-      "botao": "Salvar post"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
     "slide-03.jpg",
     "slide-04.jpg",
     "slide-05.jpg",
-    "slide-06.jpg"
-  ],
-  "tema_usado": "black"
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ]
 }

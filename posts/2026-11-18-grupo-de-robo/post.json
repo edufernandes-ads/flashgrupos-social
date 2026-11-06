@@ -3,66 +3,73 @@
   "hora": "12:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Objeção respondida: grupo de robô ninguém lê (produto em 1 slide)",
-  "legenda": "\"grupo de robô ninguém lê.\" concordo em parte.\n\n59% dos brasileiros rejeitam respostas automáticas (Opinion Box 2025, citado pelo Estado de Minas). o que afasta não é a oferta chegar sozinha. é o grupo virar mural de link: oferta repetida, texto igual, envio de madrugada, ninguém respondendo.\n\ndá para automatizar o envio e continuar com cara de gente: escolher melhor o produto, deixar a chamada com o seu jeito, fazer enquete e responder quem pergunta.\n\nno Flash Grupos você escolhe horário, intervalo e estilo da chamada, e produto repetido é barrado. a conversa continua sendo sua. teste 7 dias: link na bio",
+  "pauta": "O que faz um grupo de ofertas vender mais (produto em 1 slide)",
+  "legenda": "o grupo que vende não é o que manda mais link. é o que a pessoa tem vontade de abrir.\n\nos detalhes que fazem diferença:\noferta escolhida, com avaliação e vendas\numa chamada com o jeito do seu grupo\ncupom pronto antes do link\nhorário certo\nvocê aparecendo de vez em quando, numa enquete ou respondendo dúvida\n\no Flash Grupos cuida dos quatro primeiros: vitrine com avaliação e vendas, chamada escrita por IA no estilo que você escolher (Padrão, Urgência, Desejo, Humor), cupom no lugar e envio das 9h às 21h. o quinto é com você.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "grupodeachadinhos",
     "grupodeofertas",
     "automacaowhatsapp",
-    "afiliadashopee"
+    "afiliadashopee",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "\"Grupo de robô ninguém lê.\" *Concordo em parte*.",
+      "titulo": "O que faz um grupo de ofertas *vender mais*.",
+      "sub": "5 detalhes que quem está no grupo sente.",
       "mascote": true
     },
     {
-      "tipo": "numero",
-      "grande": "59%",
-      "titulo": "dos brasileiros rejeitam respostas automáticas.",
-      "corpo": "Opinion Box 2025, citado pelo Estado de Minas. O problema começa quando a automação fala por você."
-    },
-    {
-      "tipo": "lista",
-      "icone": "x",
-      "titulo": "Cara de robô",
-      "itens": [
-        "A mesma oferta três vezes no dia",
-        "Texto igual em todo produto",
-        "Oferta às 3h da manhã",
-        "Ninguém responde quem pergunta"
-      ]
-    },
-    {
-      "tipo": "lista",
-      "titulo": "Cara de gente",
-      "itens": [
-        "Menos produto, mais escolhido",
-        "Chamada com o seu jeito",
-        "Enquete de vez em quando",
-        "Você respondendo dúvida no grupo"
-      ]
+      "tipo": "texto",
+      "numero": 1,
+      "titulo": "Oferta *escolhida a dedo*.",
+      "corpo": "Produto com boa avaliação e muitas vendas chama mais clique que dez produtos aleatórios."
     },
     {
       "tipo": "texto",
-      "titulo": "Automatizar envio *não é* automatizar conversa.",
-      "corpo": "No Flash Grupos você escolhe horário, intervalo e estilo da chamada (Padrão, Urgência, Desejo, Humor). Repetido é barrado."
+      "numero": 2,
+      "titulo": "Chamada que *dá vontade*.",
+      "corpo": "Uma frase com o jeito do seu grupo antes do link: urgência, desejo ou humor."
+    },
+    {
+      "tipo": "texto",
+      "numero": 3,
+      "titulo": "Cupom *na cara*.",
+      "corpo": "O código logo antes do link. Menos passos entre ver a oferta e comprar."
+    },
+    {
+      "tipo": "texto",
+      "numero": 4,
+      "titulo": "Hora *certa*.",
+      "corpo": "Das 9h às 21h, uma oferta a cada 7 a 10 minutos. Promoção boa chega quando a pessoa está acordada."
+    },
+    {
+      "tipo": "texto",
+      "numero": 5,
+      "titulo": "Você *presente*.",
+      "corpo": "Uma enquete de vez em quando e resposta para quem pergunta. O grupo percebe."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O Flash Grupos cuida *dos quatro primeiros*.",
+      "corpo": "Vitrine com avaliação e vendas, chamada por IA, cupom e horário certos. O quinto é com você."
     },
     {
       "tipo": "cta",
-      "titulo": "A conversa continua sendo sua.",
-      "sub": "Teste 7 dias com garantia.",
-      "botao": "Link na bio"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
     "slide-03.jpg",
     "slide-04.jpg",
     "slide-05.jpg",
-    "slide-06.jpg"
-  ],
-  "tema_usado": "black"
+    "slide-06.jpg",
+    "slide-07.jpg",
+    "slide-08.jpg"
+  ]
 }

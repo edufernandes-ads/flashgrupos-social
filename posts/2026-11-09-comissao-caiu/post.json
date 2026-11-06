@@ -3,59 +3,56 @@
   "hora": "19:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Educação: comissão da Shopee caiu, o que fazer",
-  "legenda": "a comissão caiu e não foi impressão sua.\n\nno Reclame Aqui tem várias reclamações de afiliados com título tipo \"redução da comissão de afiliados Shopee de 6% para 3% sem aviso prévio\". quando o programa chegou ao Brasil, a Shopee falava em comissões de até 14% (Tecnoblog).\n\no que eu faria hoje:\nolhar o ticket antes da porcentagem\ngarimpar produto com comissão extra da loja\ntestar Mercado Livre no mesmo grupo (o programa de lá cresceu 342% em 2025 e paga até 16% em algumas categorias, segundo a Exame)\n\nvocê já mistura as duas lojas? conta aqui",
+  "pauta": "Educação: mesma comissão, ganho diferente (ticket, comissão extra, Mercado Livre)",
+  "legenda": "3% de um produto de R$ 30 dá R$ 0,90. os mesmos 3% de um produto de R$ 300 dão R$ 9.\n\na comissão padrão da Shopee caiu, muita afiliada relata perto de 3% (tem reclamação no Reclame Aqui com o título \"de 6% para 3% sem aviso prévio\"). quem está sentindo menos é quem passou a escolher melhor o produto:\nolhar o ticket antes da porcentagem\nprocurar comissão extra da loja, pelo navegador\nmisturar Mercado Livre no mesmo grupo (o programa de lá cresceu 342% em 2025 e paga até 16% em algumas categorias, segundo a Exame)\n\na vitrine do Flash Grupos mostra comissão e vendas de cada produto, já com o seu link.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "afiliadoshopee",
     "afiliadomercadolivre",
     "marketingdeafiliados",
-    "grupodeachadinhos"
+    "grupodeachadinhos",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "A comissão da Shopee caiu. *E agora?*",
-      "sub": "O que dá para fazer sem largar o grupo.",
+      "titulo": "Os mesmos 3% de comissão. *R$ 0,90 ou R$ 9.*",
+      "sub": "A diferença está no produto que você escolhe.",
       "mascote": true
     },
     {
-      "tipo": "texto",
-      "titulo": "Não é só com você.",
-      "corpo": "No Reclame Aqui sobram reclamações com o título: \"redução da comissão de 6% para 3% sem aviso prévio\"."
-    },
-    {
       "tipo": "numero",
-      "grande": "14%",
-      "titulo": "Era o \"até\" do anúncio de estreia.",
-      "corpo": "Assim a Shopee lançou o programa no Brasil (Tecnoblog). Hoje muita afiliada relata perto de 3%."
-    },
-    {
-      "tipo": "numero",
-      "grande": "R$ 0,90",
-      "titulo": "É 3% de um produto de R$ 30.",
-      "corpo": "Nos mesmos 3%, um produto de R$ 300 paga R$ 9. Ticket pesa mais que porcentagem."
-    },
-    {
-      "tipo": "lista",
-      "titulo": "Outras saídas",
-      "itens": [
-        "Garimpar produto com comissão extra da loja",
-        "Testar Mercado Livre no mesmo grupo",
-        "Postar menos e escolher melhor"
-      ]
+      "grande": "R$ 9",
+      "titulo": "é 3% de um produto de R$ 300.",
+      "corpo": "Num de R$ 30, dão R$ 0,90. O ticket pesa mais que a porcentagem."
     },
     {
       "tipo": "texto",
-      "titulo": "Por que *Mercado Livre*?",
-      "corpo": "O programa de afiliados de lá cresceu 342% em 2025 e paga até 16%, conforme a categoria (Exame)."
+      "titulo": "Comissão extra da loja *soma em cima*.",
+      "corpo": "Em alguns produtos ela passa de 20%. Procure pelo navegador: o app não mostra tudo."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Mercado Livre *no mesmo grupo*.",
+      "corpo": "O programa de lá cresceu 342% em 2025 e paga até 16%, conforme a categoria (Exame)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "A comissão padrão caiu. *Quem escolhe bem sente menos.*",
+      "corpo": "Muita afiliada relata perto de 3%. Ticket certo e duas lojas mudam a conta."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Escolher melhor *sem passar o dia garimpando*.",
+      "corpo": "A vitrine do Flash Grupos mostra comissão e vendas de cada produto, já com o seu link."
     },
     {
       "tipo": "cta",
-      "titulo": "Você já mistura as duas lojas?",
-      "sub": "Conta nos comentários. E salva para rever.",
-      "botao": "Comenta aqui"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
@@ -64,6 +61,5 @@
     "slide-05.jpg",
     "slide-06.jpg",
     "slide-07.jpg"
-  ],
-  "tema_usado": "black"
+  ]
 }

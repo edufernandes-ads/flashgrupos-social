@@ -3,30 +3,32 @@
   "hora": "19:00",
   "formato": "carrossel",
   "tema": "auto",
-  "pauta": "Checklist de data: véspera do 11.11",
-  "legenda": "11.11 é amanhã e dá para adiantar muita coisa hoje à noite.\n\nno 11.11 do ano passado a Shopee vendeu 20 milhões de produtos em 24 horas, o maior tráfego da história dela no Brasil. o campeão não foi eletrônico: foi um tratamento capilar, com mais de 20 mil unidades. e o Pix apareceu em 39% das compras. (fonte: Mundo do Marketing)\n\nou seja: beleza e casa merecem espaço no seu grupo amanhã, e vale lembrar no texto que dá para pagar no Pix.\n\nsalva e confere amanhã cedo",
+  "pauta": "Checklist de data: véspera do 11.11 (produto no fim)",
+  "legenda": "amanhã é 11.11, o dia em que a Shopee bateu recorde no ano passado.\n\nforam 20 milhões de produtos vendidos em 24 horas, o maior tráfego da história dela no Brasil, acima da Black Friday anterior. o campeão foi um tratamento capilar, com mais de 20 mil unidades, e o Pix apareceu em 39% das compras. (fonte: Mundo do Marketing)\n\nentão: beleza e casa com destaque no grupo, cupom separado hoje e um lembrete de que dá para pagar no Pix.\n\ne se você quer viver o 11.11 longe do celular, o Flash Grupos manda as ofertas o dia todo com o seu link e o seu cupom.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "1111shopee",
     "achadinhosshopee",
     "afiliadashopee",
-    "grupodeachadinhos"
+    "grupodeachadinhos",
+    "flashgrupos"
   ],
   "slides": [
     {
       "tipo": "capa",
-      "titulo": "11.11 é amanhã. Faz isso *hoje à noite*.",
+      "titulo": "Amanhã é 11.11. *Deixa o grupo pronto hoje.*",
+      "sub": "O maior dia da Shopee. Prepare à noite e venda o dia todo.",
       "mascote": true
     },
     {
       "tipo": "numero",
       "grande": "20 mi",
       "titulo": "de produtos vendidos em 24h no 11.11 de 2025.",
-      "corpo": "Maior tráfego da história da Shopee no Brasil (Mundo do Marketing)."
+      "corpo": "Mais que a Black Friday anterior (Mundo do Marketing). Amanhã é a sua vez."
     },
     {
       "tipo": "texto",
-      "titulo": "O campeão *não foi eletrônico*.",
-      "corpo": "Foi um tratamento capilar, com mais de 20 mil unidades. Beleza e cuidado merecem espaço no grupo amanhã."
+      "titulo": "O campeão foi *um tratamento capilar*.",
+      "corpo": "Mais de 20 mil unidades. Beleza e cuidado merecem lugar de destaque no seu grupo amanhã."
     },
     {
       "tipo": "lista",
@@ -40,23 +42,29 @@
     },
     {
       "tipo": "texto",
-      "titulo": "Não queime tudo *na virada*.",
-      "corpo": "Tem gente acordada esperando, mas não o grupo inteiro. Guarde oferta boa para manhã, almoço e noite."
+      "titulo": "Oferta boa *do café até a noite*.",
+      "corpo": "Guarde as melhores para manhã, almoço e noite. Quem abre o grupo às 20h também quer achar promoção."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Você vive o 11.11. *O grupo posta.*",
+      "corpo": "O Flash Grupos manda oferta das 9h às 21h, com o seu link e o seu cupom."
     },
     {
       "tipo": "cta",
-      "titulo": "Salva e confere amanhã cedo.",
-      "sub": "Esse checklist serve para o 12.12 também.",
-      "botao": "Salvar post"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
+  "tema_usado": "black",
   "imagens": [
     "slide-01.jpg",
     "slide-02.jpg",
     "slide-03.jpg",
     "slide-04.jpg",
     "slide-05.jpg",
-    "slide-06.jpg"
-  ],
-  "tema_usado": "black"
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ]
 }
