@@ -100,5 +100,8 @@
     "slide-07.jpg",
     "slide-08.jpg"
   ],
-  "tema_usado": "padrao"
+  "tema_usado": "padrao",
+  "status": "publicado",
+  "publicado_em": "2026-11-06T04:45",
+  "via": "navegador"
 }
