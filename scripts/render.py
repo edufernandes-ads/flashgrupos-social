@@ -28,7 +28,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BRAND = ROOT / "brand"
-HANDLE = "@flashgrupos"
+HANDLE = "@flashgrupos.ia"
 
 TEMAS = {
     "padrao": dict(acc="#8b5cf6", acc2="#c4b5fd", deep="#7c3aed", deep3="#4c1d95", apoio="#f472b6",

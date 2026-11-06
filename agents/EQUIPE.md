@@ -1,4 +1,4 @@
-# Equipe de agentes do Instagram @flashgrupos
+# Equipe de agentes do Instagram @flashgrupos.ia
 
 Toda semana (domingo à noite) uma tarefa agendada roda esta equipe e deixa a semana seguinte pronta na fila.
 O GitHub Actions publica cada post na hora marcada. Ninguém precisa aprovar.

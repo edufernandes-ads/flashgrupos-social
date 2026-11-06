@@ -1,4 +1,4 @@
-# Instagram @flashgrupos no automático
+# Instagram @flashgrupos.ia no automático
 
 - `brand/` manual da marca, paleta, fontes, logos e prints do painel
 - `estrategia/` posicionamento e calendário até 31/12/2026
