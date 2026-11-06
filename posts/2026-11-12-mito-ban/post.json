@@ -1,0 +1,81 @@
+{
+  "data": "2026-11-12",
+  "hora": "09:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Mito x verdade: ban do WhatsApp",
+  "legenda": "\"vou tomar ban por ter grupo de oferta?\"\n\nsegundo matéria do Estado de Minas (fev/2026), a Meta baniu mais de 6,8 milhões de contas de WhatsApp entre janeiro e junho de 2025. as causas mais citadas: WhatsApp modificado (GB, Plus, Aero), disparo em massa por ferramenta não autorizada e mensagem para lista comprada. e desde 15/01/2026 o bloqueio a ferramentas não autorizadas ficou mais duro.\n\noutra coisa: desde 2024, quem é adicionado num grupo por um número desconhecido vê quem adicionou e há quanto tempo o grupo existe (TNH1). adicionar gente sem pedir queima o seu nome.\n\nmanda pra amiga que vive com medo de perder o número",
+  "hashtags": [
+    "whatsapp",
+    "gruposdewhatsapp",
+    "grupodeachadinhos",
+    "afiliadainiciante"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Grupo de ofertas dá ban? *Mito ou verdade*.",
+      "mascote": true
+    },
+    {
+      "tipo": "numero",
+      "grande": "6,8 mi",
+      "titulo": "de contas de WhatsApp banidas de janeiro a junho de 2025.",
+      "corpo": "Dado da Meta, publicado pelo Estado de Minas."
+    },
+    {
+      "tipo": "compara",
+      "titulo": "Segundo a matéria",
+      "esquerda": {
+        "rotulo": "O medo",
+        "itens": [
+          "Ter grupo de oferta",
+          "Mandar link de loja"
+        ]
+      },
+      "direita": {
+        "rotulo": "O que derruba",
+        "itens": [
+          "WhatsApp GB, Plus",
+          "Disparo em massa não autorizado",
+          "Lista comprada"
+        ]
+      }
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Desde janeiro a Meta *apertou o cerco*.",
+      "corpo": "O bloqueio a ferramentas não autorizadas ficou mais duro. Vale saber como a sua se conecta."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Para proteger o seu número",
+      "itens": [
+        "Chip só para os grupos",
+        "Nada de WhatsApp modificado",
+        "Nunca adicionar gente sem permissão",
+        "Envio espaçado, sem madrugada"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E o WhatsApp mostra *quem te adicionou*.",
+      "corpo": "Desde 2024 aparece quem adicionou e a idade do grupo (TNH1). Adicionar sem pedir queima o seu nome."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Manda para a amiga que tem medo de ban.",
+      "botao": "Enviar para alguém"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ],
+  "tema_usado": "black"
+}

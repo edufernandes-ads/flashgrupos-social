@@ -1,0 +1,62 @@
+{
+  "data": "2026-11-11",
+  "hora": "12:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Erro comum no 11.11 (produto em 1 slide)",
+  "legenda": "hoje é o dia em que mais dá vontade de mandar tudo de uma vez. e é o dia em que mais gente silencia grupo.\n\n18% das pessoas bloqueiam empresa desconhecida no WhatsApp antes mesmo de ler (Opinion Box 2025, citado pelo Estado de Minas). grupo que parece disparo entra nessa conta.\n\nritmo bom: uma oferta a cada 7 a 10 minutos, produto diferente, cupom testado e pausa à noite.\n\nse quiser esse ritmo no automático, o Flash Grupos já vem assim. teste 7 dias: link na bio\n\nbom 11.11 🛍️",
+  "hashtags": [
+    "1111shopee",
+    "grupodeachadinhos",
+    "grupodeofertas",
+    "afiliadashopee"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "O erro que esvazia grupo *no 11.11*.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Mandar 40 ofertas *numa hora*.",
+      "corpo": "O celular vibra sem parar, a pessoa silencia o grupo e não volta. Em dia de promoção, isso é rápido."
+    },
+    {
+      "tipo": "numero",
+      "grande": "18%",
+      "titulo": "bloqueia empresa desconhecida antes de ler.",
+      "corpo": "Opinion Box 2025, citado pelo Estado de Minas. Grupo com cara de disparo entra nessa conta."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O que funciona melhor",
+      "itens": [
+        "1 oferta a cada 7 a 10 min",
+        "Produto diferente a cada envio",
+        "Cupom testado antes",
+        "Pausa à noite"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "No Flash Grupos esse ritmo *já vem pronto*.",
+      "corpo": "Das 9h às 21h, uma oferta a cada 7 a 10 minutos, sem repetir produto."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Bom 11.11 para você e para o seu grupo.",
+      "sub": "Quer o ritmo no automático? Teste 7 dias.",
+      "botao": "Link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

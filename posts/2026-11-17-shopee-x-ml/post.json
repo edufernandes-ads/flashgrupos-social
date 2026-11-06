@@ -1,0 +1,92 @@
+{
+  "data": "2026-11-17",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Comparação de lojas: Shopee x Mercado Livre no grupo",
+  "legenda": "Shopee ou Mercado Livre no grupo de achadinhos? coloquei lado a lado.\n\nShopee: mais de 5 milhões de afiliados e pedidos via afiliados mais de 200% maiores em abril/2026 contra abril/2025 (dados da empresa, no O Povo). ticket baixo e datas duplas todo mês.\n\nMercado Livre: programa de afiliados cresceu 342% em 2025, comissão de até 16% conforme a categoria e frete grátis a partir de R$ 19 (Exame).\n\nminha opinião: as duas. depender de um programa só ficou arriscado depois dos cortes.\n\nqual vende mais no seu grupo? comenta Shopee ou ML",
+  "hashtags": [
+    "achadinhosshopee",
+    "afiliadomercadolivre",
+    "mercadolivre",
+    "grupodeachadinhos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Shopee ou Mercado Livre no grupo? *Comparei*.",
+      "mascote": true
+    },
+    {
+      "tipo": "compara",
+      "titulo": "Quem está crescendo",
+      "esquerda": {
+        "rotulo": "Shopee",
+        "itens": [
+          "5 milhões de afiliados",
+          "Pedidos via afiliados +200% (O Povo)"
+        ]
+      },
+      "direita": {
+        "rotulo": "Mercado Livre",
+        "itens": [
+          "Programa +342% em 2025",
+          "Até 16% por categoria (Exame)"
+        ]
+      }
+    },
+    {
+      "tipo": "compara",
+      "titulo": "No dia a dia",
+      "esquerda": {
+        "rotulo": "Shopee",
+        "itens": [
+          "Ticket baixo, compra por impulso",
+          "Datas duplas: 11.11, 12.12"
+        ]
+      },
+      "direita": {
+        "rotulo": "Mercado Livre",
+        "itens": [
+          "Frete grátis desde R$ 19 (Exame)",
+          "Entrega rápida passa confiança"
+        ]
+      }
+    },
+    {
+      "tipo": "compara",
+      "titulo": "O lado ruim",
+      "esquerda": {
+        "rotulo": "Shopee",
+        "itens": [
+          "Reclamações de corte de comissão sem aviso"
+        ]
+      },
+      "direita": {
+        "rotulo": "Mercado Livre",
+        "itens": [
+          "Muito mais gente disputando o mesmo clique"
+        ]
+      }
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Minha opinião: *as duas*.",
+      "corpo": "Depender de um programa só ficou arriscado. Muita afiliada já mistura Shopee e Mercado Livre no mesmo grupo."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Qual vende mais no seu grupo?",
+      "botao": "Comenta Shopee ou ML"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

@@ -1,0 +1,62 @@
+{
+  "data": "2026-11-10",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Checklist de data: véspera do 11.11",
+  "legenda": "11.11 é amanhã e dá para adiantar muita coisa hoje à noite.\n\nno 11.11 do ano passado a Shopee vendeu 20 milhões de produtos em 24 horas, o maior tráfego da história dela no Brasil. o campeão não foi eletrônico: foi um tratamento capilar, com mais de 20 mil unidades. e o Pix apareceu em 39% das compras. (fonte: Mundo do Marketing)\n\nou seja: beleza e casa merecem espaço no seu grupo amanhã, e vale lembrar no texto que dá para pagar no Pix.\n\nsalva e confere amanhã cedo",
+  "hashtags": [
+    "1111shopee",
+    "achadinhosshopee",
+    "afiliadashopee",
+    "grupodeachadinhos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "11.11 é amanhã. Faz isso *hoje à noite*.",
+      "mascote": true
+    },
+    {
+      "tipo": "numero",
+      "grande": "20 mi",
+      "titulo": "de produtos vendidos em 24h no 11.11 de 2025.",
+      "corpo": "Maior tráfego da história da Shopee no Brasil (Mundo do Marketing)."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O campeão *não foi eletrônico*.",
+      "corpo": "Foi um tratamento capilar, com mais de 20 mil unidades. Beleza e cuidado merecem espaço no grupo amanhã."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Checklist de hoje",
+      "itens": [
+        "Teste seus links",
+        "Separe os cupons de amanhã",
+        "Liste ofertas de beleza e casa",
+        "Lembre do Pix: 39% pagaram assim"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Não queime tudo *na virada*.",
+      "corpo": "Tem gente acordada esperando, mas não o grupo inteiro. Guarde oferta boa para manhã, almoço e noite."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Salva e confere amanhã cedo.",
+      "sub": "Esse checklist serve para o 12.12 também.",
+      "botao": "Salvar post"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

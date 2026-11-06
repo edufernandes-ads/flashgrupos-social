@@ -1,0 +1,90 @@
+{
+  "data": "2026-11-08",
+  "hora": "11:00",
+  "formato": "carrossel",
+  "tema": "padrao",
+  "pauta": "Fixado 3: dúvidas que travam (ban, robô, tecnologia, lojas)",
+  "legenda": "respondendo sem enrolar as dúvidas que travam quem pensa em automatizar o grupo.\n\nsobre ban: o risco existe em qualquer ferramenta que conecta pelo WhatsApp Web, e quem diz que é zero está mentindo. o que mais derruba número, segundo matéria do Estado de Minas (fev/2026), é WhatsApp modificado, disparo em massa e mensagem para lista comprada. a Meta baniu mais de 6,8 milhões de contas só no primeiro semestre de 2025.\n\npor isso a gente recomenda chip separado para os grupos e envio espaçado, que é como o painel já vem.\n\nsobre lojas: Shopee e Mercado Livre saem no automático. Amazon e Magalu entram pelos grupos que você acompanha ou pelo link que você cola. um detalhe honesto: link meli.la que abre a vitrine de outro afiliado precisa da extensão do Chrome aberta para achar o produto.\n\no Flash Grupos só envia nos grupos que você escolher e não lê suas conversas privadas.\n\ntem outra dúvida? manda no direct.",
+  "hashtags": [
+    "grupodeachadinhos",
+    "afiliadashopee",
+    "gruposdewhatsapp",
+    "automacaowhatsapp",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "selo": "COMECE AQUI  3/3",
+      "titulo": "4 dúvidas antes de *automatizar o grupo*.",
+      "sub": "Respondidas sem enrolação, inclusive a do ban.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "numero": "1",
+      "titulo": "Posso tomar ban?",
+      "corpo": "Pode. Ele conecta como o WhatsApp Web, não pela API oficial. Nenhuma ferramenta desse tipo garante risco zero."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O que *diminui* o risco",
+      "itens": [
+        "Chip só para os grupos",
+        "Envio espaçado",
+        "Gente que entrou porque quis",
+        "2 ou 3 números revezando (Pro e Scale)"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "numero": "2",
+      "titulo": "Vai parecer robô?",
+      "corpo": "Com 50 ofertas seguidas, vai. Você define horário e intervalo, e a mensagem sai no seu modelo, sem repetir produto."
+    },
+    {
+      "tipo": "texto",
+      "numero": "3",
+      "titulo": "Preciso entender de tecnologia?",
+      "corpo": "Não. Você lê um QR Code, marca os grupos e cola seus dados de afiliado. O painel mostra onde achar."
+    },
+    {
+      "tipo": "compara",
+      "titulo": "4. Qual loja funciona?",
+      "esquerda": {
+        "rotulo": "Amazon e Magalu",
+        "itens": [
+          "Por grupo que você acompanha ou link colado"
+        ]
+      },
+      "direita": {
+        "rotulo": "Shopee e Mercado Livre",
+        "itens": [
+          "Montada e enviada sozinha"
+        ]
+      }
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E se não servir pra mim?",
+      "corpo": "Sem fidelidade. Em até 7 dias você pede o reembolso pela Kiwify. E ele não lê suas conversas privadas."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Ficou alguma dúvida?",
+      "sub": "Manda no direct que eu respondo.",
+      "botao": "Teste 7 dias: link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg",
+    "slide-08.jpg"
+  ],
+  "tema_usado": "padrao"
+}

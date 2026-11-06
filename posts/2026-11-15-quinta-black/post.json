@@ -1,0 +1,64 @@
+{
+  "data": "2026-11-15",
+  "hora": "20:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Curiosidade + planejamento: a quinta da Black Friday",
+  "legenda": "na Black Friday de 2025, a quinta vendeu mais que a sexta no e-commerce, por causa das compras antecipadas. os pedidos subiram 28% (8,69 milhões) e o ticket médio caiu 12,8%, para R$ 553,60. (Confi Neotrust, no Meio & Mensagem)\n\nmais pedido e valor menor é a cara do achadinho.\n\neste ano a Black cai em 27/11. então a sua quinta forte é 26/11, e o aquecimento começa já na segunda.\n\nsalva o plano e me diz: você começa a postar Black na segunda ou na quinta?",
+  "hashtags": [
+    "blackfriday",
+    "blacknovember",
+    "achadinhos",
+    "grupodeachadinhos",
+    "afiliadashopee"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Na última Black Friday, *a quinta vendeu mais*.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Não é chute.",
+      "corpo": "Em 2025 a quinta-feira vendeu mais que a sexta no e-commerce, por compras antecipadas (Confi Neotrust, no Meio & Mensagem)."
+    },
+    {
+      "tipo": "numero",
+      "grande": "-12,8%",
+      "titulo": "no ticket médio da Black de 2025.",
+      "corpo": "E 28% mais pedidos: 8,69 milhões. Muito pedido de valor menor. Cara de achadinho."
+    },
+    {
+      "tipo": "numero",
+      "grande": "26/11",
+      "titulo": "é a quinta da Black deste ano.",
+      "corpo": "A Black Friday cai na sexta, 27/11. O seu grupo começa a vender antes."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Plano da semana",
+      "itens": [
+        "Seg a qua: enquete e prévia",
+        "Qui 26: as melhores ofertas",
+        "Sex 27: reforço e cupom",
+        "Seg 30: Cyber Monday"
+      ]
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Salva o plano da semana.",
+      "sub": "Na sexta tem o checklist final.",
+      "botao": "Salvar post"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

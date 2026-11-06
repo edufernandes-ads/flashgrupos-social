@@ -1,0 +1,73 @@
+{
+  "data": "2026-11-20",
+  "hora": "21:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Checklist de data: uma semana para a Black Friday (produto em 1 slide)",
+  "legenda": "falta uma semana para a Black Friday (27/11) e a quinta, 26/11, deve ser forte de novo.\n\no que eu deixaria pronto até domingo:\nlinks testados em todas as lojas que você usa\nlista de cupons com data de validade\nchip reserva conectado\ngrupo novo aberto se o atual estiver perto de 1.024 pessoas, que é o limite do grupo (256 é o da lista de transmissão, segundo o Canaltech)\n\ne se for usar automação, liga antes. testar na quinta da Black é pedir para dar dor de cabeça.\n\nsalva e risca um item por dia ✅",
+  "hashtags": [
+    "blackfriday",
+    "blacknovember",
+    "grupodeachadinhos",
+    "gruposdewhatsapp",
+    "afiliadashopee"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Falta uma semana para a Black. *Checklist*.",
+      "mascote": true
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Links e cupons",
+      "itens": [
+        "Teste um link de cada loja que você usa",
+        "Liste os cupons que valem na Black",
+        "Anote quando cada cupom vence"
+      ]
+    },
+    {
+      "tipo": "numero",
+      "grande": "1.024",
+      "titulo": "é o limite de um grupo de WhatsApp.",
+      "corpo": "256 é o da lista de transmissão (Canaltech). Grupo quase cheio? Abra o próximo antes da quinta."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "O seu número",
+      "itens": [
+        "Chip reserva conectado e testado",
+        "Nada de WhatsApp modificado",
+        "Internet e bateria com plano B"
+      ]
+    },
+    {
+      "tipo": "tela",
+      "imagem": "grupos.jpg",
+      "recorte": [
+        0.05,
+        0.68,
+        0.45,
+        0.8
+      ],
+      "titulo": "Vai usar automação? *Liga antes*, não na quinta.",
+      "legenda": "Dá para começar no modo fila: a oferta chega pronta e você confere antes de sair."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Salva e risca um item por dia.",
+      "sub": "Teste 7 dias com garantia, antes da Black.",
+      "botao": "Link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

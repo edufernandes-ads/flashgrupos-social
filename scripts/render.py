@@ -32,11 +32,11 @@ HANDLE = "@flashgrupos.ia"
 
 TEMAS = {
     "padrao": dict(acc="#8b5cf6", acc2="#c4b5fd", deep="#7c3aed", deep3="#4c1d95", apoio="#f472b6",
-                   selo="", logo="rosto-padrao.png", glow="139,92,246"),
+                   selo="", logo="rosto-padrao.png", heroi="", glow="139,92,246"),
     "black": dict(acc="#8b5cf6", acc2="#c4b5fd", deep="#7c3aed", deep3="#4c1d95", apoio="#f472b6",
-                  selo="BLACK NOVEMBER", logo="rosto-padrao.png", glow="139,92,246"),
+                  selo="BLACK NOVEMBER", logo="rosto-padrao.png", heroi="mascote-black.jpg", glow="139,92,246"),
     "natal": dict(acc="#e23b4e", acc2="#ff8a96", deep="#c8283c", deep3="#7a1220", apoio="#f3c766",
-                  selo="BLACK NATALINA", logo="logo-preguica-natal-512.png", glow="226,59,78"),
+                  selo="BLACK NATALINA", logo="logo-preguica-natal-512.png", heroi="mascote-natal.jpg", glow="226,59,78"),
 }
 
 
@@ -123,6 +123,9 @@ h2{font-weight:700;font-size:68px;line-height:1.08;letter-spacing:-.03em}
 .brand img{width:52px;height:52px;border-radius:14px}
 .dots{display:flex;gap:10px}.dots i{width:12px;height:12px;border-radius:50%%;background:#3f3f46}.dots i.on{width:34px;border-radius:8px;background:%(acc)s}
 .next{color:%(acc2)s;font-weight:600}
+.heroi{position:absolute;right:30px;bottom:110px;width:520px;height:520px;border-radius:50%%;overflow:hidden}
+.heroi img,.cta-h img{width:100%%;height:100%%;object-fit:cover;display:block}
+.cta-h{width:380px;height:380px;border-radius:50%%;overflow:hidden;margin-bottom:40px;margin-left:-20px}
 """
 
 
@@ -138,9 +141,14 @@ def slide_html(s: dict, i: int, n: int, T: dict, assets: dict) -> str:
         if s.get("sub"):
             body += f'<p class="sub">{rich(s["sub"])}</p>'
         if s.get("mascote", True):
-            body += f'<div class="mascote"><img src="{assets["logo"]}"></div>'
+            if assets["heroi"]:
+                body += f'<div class="heroi"><img src="{assets["heroi"]}"></div>'
+            else:
+                body += f'<div class="mascote"><img src="{assets["logo"]}"></div>'
         pb = 300 if s.get("mascote", True) else 60
-        body = f'<div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding-bottom:{pb}px">' + body + "</div>"
+        # com a mascote grande (heroi) o texto sobe para o topo, para nunca ficar atrás do círculo
+        just = "flex-start;padding-top:70px" if (s.get("mascote", True) and assets["heroi"]) else "center"
+        body = f'<div style="flex:1;display:flex;flex-direction:column;justify-content:{just};padding-bottom:{pb}px">' + body + "</div>"
     elif t == "texto":
         if s.get("numero"):
             body += f'<div class="num">{html.escape(str(s["numero"]))}</div>'
@@ -194,7 +202,10 @@ def slide_html(s: dict, i: int, n: int, T: dict, assets: dict) -> str:
             return f'<div class="col{" on" if on else ""}"><h3>{rich(c.get("rotulo"))}</h3>{ps}</div>'
         body = f'<div style="flex:1;display:flex;flex-direction:column;justify-content:center"><h2>{rich(s.get("titulo"))}</h2><div class="cols">{col(s.get("esquerda", {}), False)}{col(s.get("direita", {}), True)}</div></div>'
     elif t == "cta":
-        body = (f'<div class="cta-m"><img src="{assets["logo"]}"></div><h2>{rich(s.get("titulo"))}</h2>')
+        if assets["heroi"]:
+            body = f'<div class="cta-h"><img src="{assets["heroi"]}"></div><h2>{rich(s.get("titulo"))}</h2>'
+        else:
+            body = f'<div class="cta-m"><img src="{assets["logo"]}"></div><h2>{rich(s.get("titulo"))}</h2>'
         if s.get("sub"):
             body += f'<p class="corpo">{rich(s["sub"])}</p>'
         body += f'<div class="btn">{html.escape(s.get("botao", "Teste 7 dias: link na bio"))}</div>'
@@ -222,7 +233,8 @@ def render(post_dir: Path):
             cache[name] = data_uri(BRAND / "assets" / name)
         return cache[name]
 
-    assets = {"logo": data_uri(BRAND / "assets" / T["logo"]), "shot": shot}
+    assets = {"logo": data_uri(BRAND / "assets" / T["logo"]), "shot": shot,
+              "heroi": data_uri(BRAND / "assets" / T["heroi"]) if T.get("heroi") else ""}
     css = fonts_css() + CSS % dict(W=W, H=H, shotmax=760 if not story else 1100, **T)
     slides = post["slides"]
     out = []

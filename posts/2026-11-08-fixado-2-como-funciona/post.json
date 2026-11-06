@@ -1,0 +1,104 @@
+{
+  "data": "2026-11-08",
+  "hora": "10:30",
+  "formato": "carrossel",
+  "tema": "padrao",
+  "pauta": "Fixado 2: como funciona na prática, com telas reais",
+  "legenda": "o caminho de uma oferta, do jeito que acontece no painel:\n\n1. você escolhe de onde vêm as ofertas (grupos em que o seu número já está, os grupos de monitoramento)\n2. ele troca o link pelo seu de afiliado e põe o seu cupom\n3. você decide: deixa na fila para aprovar ou no automático\n4. sai nos seus grupos das 9h às 21h, a cada 7 a 10 minutos, sem repetir produto\n\ne se achar uma promoção no meio da rua, manda o link no seu grupo de disparo pelo celular que ele monta e envia.\n\nas telas são do painel de verdade. ficou alguma dúvida? me chama no direct.",
+  "hashtags": [
+    "grupodeachadinhos",
+    "afiliadomercadolivre",
+    "automacaowhatsapp",
+    "grupodeofertas",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "selo": "COMECE AQUI  2/3",
+      "titulo": "Da oferta aparecer até ela *estar no seu grupo*.",
+      "sub": "O caminho de uma oferta no Flash Grupos, com as telas de verdade.",
+      "mascote": true
+    },
+    {
+      "tipo": "tela",
+      "imagem": "grupos.jpg",
+      "recorte": [
+        0.05,
+        0.68,
+        0.45,
+        0.8
+      ],
+      "titulo": "1. Você escolhe de onde *vêm as ofertas*.",
+      "legenda": "Grupos em que o seu número já está. Para cada um: fila ou envio automático."
+    },
+    {
+      "tipo": "tela",
+      "imagem": "fila.jpg",
+      "recorte": [
+        0.03,
+        0.495,
+        0.34,
+        0.815
+      ],
+      "titulo": "2. Ele troca pelo *seu link* e põe o *seu cupom*.",
+      "legenda": "Vale para links da Shopee, Mercado Livre, Amazon e Magalu."
+    },
+    {
+      "tipo": "texto",
+      "titulo": "3. Você decide: *aprovar* ou *automático*.",
+      "corpo": "Na fila, a oferta espera o seu toque. No automático, sai sozinha. Dá para escolher por grupo de origem."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "4. Sai nos seus grupos, *dentro das regras*.",
+      "itens": [
+        "Das 9h às 21h",
+        "A cada 7 a 10 minutos",
+        "Sem repetir produto",
+        "Já vem assim, sem configurar"
+      ]
+    },
+    {
+      "tipo": "chat",
+      "titulo": "5. E chega *assim* no grupo.",
+      "grupo": "#01 Achados do Edu",
+      "info": "exemplo com a oferta da tela 2",
+      "mensagens": [
+        {
+          "de": "Você",
+          "texto": "🔥 Jogo de Lençol 400 Fios Queen\n\nDe: R$ 189,90 ❌\n✅ Por: R$ 119,90 🔥\n\n🎟️ Cupom: CASA15\n\n👉 Compre aqui: s.shopee.com.br/9mLx2\n\nCorre que acaba rápido"
+        }
+      ]
+    },
+    {
+      "tipo": "tela",
+      "imagem": "controle.jpg",
+      "recorte": [
+        0.03,
+        0.49,
+        0.4,
+        0.88
+      ],
+      "titulo": "Achou promoção na rua? *Manda pelo celular*.",
+      "legenda": "No seu grupo de disparo: cole o link, ou escreva agendar antes dele."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Quer ver isso no seu grupo?",
+      "sub": "Teste 7 dias com garantia. Sem fidelidade.",
+      "botao": "Link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg",
+    "slide-08.jpg"
+  ],
+  "tema_usado": "padrao"
+}

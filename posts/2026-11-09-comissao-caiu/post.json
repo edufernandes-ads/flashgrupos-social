@@ -1,0 +1,69 @@
+{
+  "data": "2026-11-09",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Educação: comissão da Shopee caiu, o que fazer",
+  "legenda": "a comissão caiu e não foi impressão sua.\n\nno Reclame Aqui tem várias reclamações de afiliados com título tipo \"redução da comissão de afiliados Shopee de 6% para 3% sem aviso prévio\". quando o programa chegou ao Brasil, a Shopee falava em comissões de até 14% (Tecnoblog).\n\no que eu faria hoje:\nolhar o ticket antes da porcentagem\ngarimpar produto com comissão extra da loja\ntestar Mercado Livre no mesmo grupo (o programa de lá cresceu 342% em 2025 e paga até 16% em algumas categorias, segundo a Exame)\n\nvocê já mistura as duas lojas? conta aqui",
+  "hashtags": [
+    "afiliadoshopee",
+    "afiliadomercadolivre",
+    "marketingdeafiliados",
+    "grupodeachadinhos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "A comissão da Shopee caiu. *E agora?*",
+      "sub": "O que dá para fazer sem largar o grupo.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Não é só com você.",
+      "corpo": "No Reclame Aqui sobram reclamações com o título: \"redução da comissão de 6% para 3% sem aviso prévio\"."
+    },
+    {
+      "tipo": "numero",
+      "grande": "14%",
+      "titulo": "Era o \"até\" do anúncio de estreia.",
+      "corpo": "Assim a Shopee lançou o programa no Brasil (Tecnoblog). Hoje muita afiliada relata perto de 3%."
+    },
+    {
+      "tipo": "numero",
+      "grande": "R$ 0,90",
+      "titulo": "É 3% de um produto de R$ 30.",
+      "corpo": "Nos mesmos 3%, um produto de R$ 300 paga R$ 9. Ticket pesa mais que porcentagem."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Outras saídas",
+      "itens": [
+        "Garimpar produto com comissão extra da loja",
+        "Testar Mercado Livre no mesmo grupo",
+        "Postar menos e escolher melhor"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "Por que *Mercado Livre*?",
+      "corpo": "O programa de afiliados de lá cresceu 342% em 2025 e paga até 16%, conforme a categoria (Exame)."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Você já mistura as duas lojas?",
+      "sub": "Conta nos comentários. E salva para rever.",
+      "botao": "Comenta aqui"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ],
+  "tema_usado": "black"
+}

@@ -60,72 +60,37 @@ Hipótese para testar: público de mães pode render melhor às 20h30/21h (depoi
 
 ## 4. Os 9 primeiros posts (09/11 a 20/11, tema "black", selo BLACK NOVEMBER)
 
-Ordem de publicação. O grid alterna carrossel e imagem para não ficar pesado. Prints são do tema azul antigo: usar sempre em moldura escura e trocar pelos prints violeta assim que existirem.
+Refeito em 06/11/2026 a partir de estrategia/PESQUISA-PUBLICO.md, depois que o Edu reprovou a versão anterior ("cara de IA", "parece página de vendas").
+Regras desta leva: no máximo 3 dos 9 falam do produto, e quando falam é como solução da dor do post, em 1 slide. Só entram fatos de fonte oficial ou imprensa, com a fonte no slide ou na legenda. Nada vindo do blog DivulgaNinja (concorrente) nem dado "sem confirmação" (por isso ficaram de fora cookie, prazo de pagamento e encurtador).
+Pastas prontas em posts/ (post.json + slides renderizados).
 
-**Post 1 | 09/11 seg 19h | Carrossel 7 | Dor do tempo (post de apresentação, fixar no perfil)**
-- Gancho: "Seu grupo de ofertas, sem você preso nele."
-- S2: Achar produto. Gerar link. Cupom. Texto. Grupo por grupo.
-- S3: Agora repete isso o dia inteiro. Na Black November.
-- S4: E a sua família? E o seu almoço? E o seu sono?
-- S5: Prazer, Flash Grupos. A preguiça descansa. O grupo trabalha.
-- S6: Ele monta a oferta no seu padrão, com o seu link, e envia sozinho. (tela: dashboard.jpg)
-- S7: Siga para o mês inteiro de dicas da Black. Teste 7 dias com garantia: link na bio.
+| # | Data | Hora | Pasta | Formato | Pilar | Gancho | Produto? | Fonte usada |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 09/11 seg | 19h | 2026-11-09-comissao-caiu | Carrossel 7, dúvida respondida | Educação | "A comissão da Shopee caiu. E agora?" | não | Reclame Aqui (títulos), Tecnoblog, Exame |
+| 2 | 10/11 ter | 19h | 2026-11-10-vespera-1111 | Carrossel 6, checklist de data | Educação | "11.11 é amanhã. Faz isso hoje à noite." | não | Mundo do Marketing |
+| 3 | 11/11 qua | 12h | 2026-11-11-erro-1111 | Carrossel 6, erro comum | Educação + produto | "O erro que esvazia grupo no 11.11." | sim, slide 5 (ritmo pronto) | Opinion Box via Estado de Minas |
+| 4 | 12/11 qui | 9h | 2026-11-12-mito-ban | Carrossel 7, mito x verdade | Educação | "Grupo de ofertas dá ban? Mito ou verdade." | não | Estado de Minas, TNH1 |
+| 5 | 15/11 dom | 20h | 2026-11-15-quinta-black | Carrossel 6, curiosidade + plano | Educação | "Na última Black Friday, a quinta vendeu mais." | não | Confi Neotrust via Meio & Mensagem |
+| 6 | 16/11 seg | 19h | 2026-11-16-nota-por-marca | Carrossel 6, dúvida respondida | Educação | "Ganhou comissão extra de marca na Shopee? Lê isso." | não | DRE Contábil e Actana (contadores) |
+| 7 | 17/11 ter | 19h | 2026-11-17-shopee-x-ml | Carrossel 6, comparação de lojas | Educação | "Shopee ou Mercado Livre no grupo? Comparei." | não | O Povo, Exame |
+| 8 | 18/11 qua | 12h | 2026-11-18-grupo-de-robo | Carrossel 6, objeção respondida | Educação + produto | "Grupo de robô ninguém lê. Concordo em parte." | sim, slide 5 (horário, intervalo, estilo) | Opinion Box via Estado de Minas |
+| 9 | 20/11 sex | 21h | 2026-11-20-checklist-black | Carrossel 6, checklist de data | Educação + produto | "Falta uma semana para a Black. Checklist." | sim, slide 5 (tela real: fila ou automático) | Canaltech |
 
-**Post 2 | 10/11 ter 19h | Carrossel 6 | Educação**
-- Gancho: "11.11 é amanhã. Seu grupo está pronto?"
-- S2: Confira se o seu link de afiliado está certo em todas as lojas.
-- S3: Separe os cupons do dia antes das 9h.
-- S4: Defina o ritmo: ofertas espaçadas, nada de madrugada.
-- S5: Tenha um número reserva se o principal cair.
-- S6: Salve este checklist para o 12.12 também.
+Observações:
+- Post 6 (NFS-e): a fonte são escritórios de contabilidade, não a Shopee. O post diz "não sou contador" e manda confirmar com o contador. Se o Edu achar o comunicado oficial da Shopee, trocar a fonte na legenda.
+- Post 1: "R$ 0,90" e "R$ 9" são só a conta de 3% sobre R$ 30 e R$ 300 (exemplo, não dado do Flash Grupos).
+- O post "Por que eu criei" (bastidor com foto real do Edu) saiu desta leva porque a foto ainda não existe. Volta quando a foto chegar.
+- Imagens da preguiça em cena (estrategia/PROMPTS-IMAGENS.md) ainda não existem: os posts funcionam com a mascote padrão do tema.
 
-**Post 3 | 11/11 qua 12h | Imagem única | Humor da preguiça**
-- Gancho: "Hoje é 11.11. Você vive o dia. O grupo manda as ofertas."
-- Arte: preguiça de fone numa rede, celular de lado, selo BLACK NOVEMBER.
+## Fixados (publicados em 08/11/2026, domingo, para o Edu fixar no perfil)
 
-**Post 4 | 12/11 qui 9h | Carrossel 6 | Produto com tela real**
-- Gancho: "Como uma oferta sai sozinha, do link até o grupo."
-- S2: Chega uma oferta dos grupos que você escolheu acompanhar. (tela: auto.jpg)
-- S3: Ele troca pelo seu link de afiliado e coloca o seu cupom.
-- S4: Monta no seu modelo e entra na fila. (tela: fila.jpg)
-- S5: Sai nos seus grupos das 9h às 21h, a cada 7 a 10 min, sem repetir produto.
-- S6: Você liga uma vez. O grupo roda sozinho. Link na bio.
+Tema "padrao" (violeta, sem selo de Black Friday) de propósito: ficam fixados depois de novembro. Selo "COMECE AQUI 1/3, 2/3, 3/3". Fixar na ordem inversa da publicação para aparecerem 1, 2, 3 da esquerda para a direita.
 
-**Post 5 | 15/11 dom 20h | Carrossel 6 | Dor do tempo**
-- Gancho: "A conta que ninguém faz antes da Black Friday."
-- S2: Uns 3 minutos para montar cada oferta. Uns 30 segundos por grupo.
-- S3: Exemplo: 20 ofertas por dia em 3 grupos.
-- S4: Dá cerca de 1h30 por dia. Uns 45 horas no mês. (marcar como estimativa)
-- S5: Quanto disso você queria passar com quem você ama?
-- S6: Faça a sua conta nos comentários. Quero meu tempo de volta: link na bio.
-
-**Post 6 | 16/11 seg 19h | Carrossel 5 | Produto com tela real**
-- Gancho: "E se o seu número cair no meio da Black Friday?"
-- S2: Com o time de WhatsApp, até 3 números revezam os envios.
-- S3: Cada número envia menos. Menos risco de bloqueio.
-- S4: Se um cai, os outros assumem, sem repetir oferta. E você recebe aviso no WhatsApp.
-- S5: O grupo não para. Teste 7 dias: link na bio. (tela: grupos.jpg)
-
-**Post 7 | 17/11 ter 19h | Carrossel 6 | Educação (para quem enche grupo com anúncio)**
-- Gancho: "Grupo lotou no meio do anúncio? Não perca quem chegou."
-- S2: Grupo de WhatsApp tem limite. Na Black, enche rápido.
-- S3: Um link fixo para anúncio, bio e stories. (tela: redirecionadores.jpg)
-- S4: Quando o grupo lota, o próximo assume sozinho.
-- S5: E você vê quem entrou, quem saiu e quem ficou. (tela: membros.jpg)
-- S6: Salve para a sua próxima campanha.
-
-**Post 8 | 18/11 qua 12h | Carrossel 5 | Produto com tela real**
-- Gancho: "Achou promoção na fila do mercado? Manda pelo celular."
-- S2: Crie um grupo só seu, o grupo de disparo.
-- S3: Cole o link. Ele monta a oferta com o seu link de afiliado. (tela: controle.jpg)
-- S4: Escreva "agendar 20:00" antes do link e ele agenda.
-- S5: Shopee, Mercado Livre, Amazon e Magalu. Link na bio.
-
-**Post 9 | 20/11 sex 21h | Imagem única ou carrossel 4 | Bastidores**
-- Gancho: "Por que eu criei o Flash Grupos." (foto real do Edu)
-- S2: Eu enchia grupos com anúncio e via o dono preso no celular o dia todo.
-- S3: Criei a ferramenta que eu queria que meus clientes tivessem.
-- S4: Black Friday é na sexta que vem. Me conta nos comentários: quantos grupos você tem?
+| # | Hora | Pasta | Gancho | O que mostra |
+|---|---|---|---|---|
+| 1 | 10:00 | 2026-11-08-fixado-1-o-que-faz | "Seu grupo de achadinhos sem o trabalho braçal." | A operação repetitiva (achar oferta, link, cupom, texto, postar em cada grupo) e o que o Flash Grupos faz dela. Tela real: oferta pronta na fila. O que continua com a afiliada. |
+| 2 | 10:30 | 2026-11-08-fixado-2-como-funciona | "Da oferta aparecer até ela estar no seu grupo." | Passo a passo com telas reais: grupos de monitoramento (fila ou automático), troca de link e cupom, regras de envio, como chega no grupo, grupo de disparo pelo celular. |
+| 3 | 11:00 | 2026-11-08-fixado-3-duvidas | "4 dúvidas antes de automatizar o grupo." | Ban (resposta honesta: conecta como WhatsApp Web, não há risco zero, o que diminui), "vai parecer robô?", "preciso entender de tecnologia?", quais lojas (Shopee e ML no automático; Amazon e Magalu por grupo acompanhado ou link colado; meli.la pede extensão), reembolso. |
 
 ---
 
@@ -192,4 +157,4 @@ Regra: **3 a 5 por post**, 1 grande + 2 médias + 1 ou 2 de nicho, sempre ligada
 - Muitos cliques na bio e poucos testes: o problema está na página ou na oferta, não no conteúdo.
 - 01/12 e 31/12: revisão geral da campanha e ajuste do mix para janeiro (tema "padrao").
 
-**Pendências antes de 09/11:** prints novos no tema violeta; definir se o "Comenta GRUPO" vai ter automação de DM (enquanto não tiver, usar só link na bio); foto real do Edu para o post 9.
+**Pendências antes de 09/11:** prints novos no tema violeta; definir se o "Comenta GRUPO" vai ter automação de DM (enquanto não tiver, usar só link na bio); foto real do Edu para o post de bastidor (saiu da leva de 09 a 20/11 enquanto a foto não existe); gerar as cenas da preguiça de estrategia/PROMPTS-IMAGENS.md.

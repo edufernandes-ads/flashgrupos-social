@@ -1,0 +1,72 @@
+{
+  "data": "2026-11-16",
+  "hora": "19:00",
+  "formato": "carrossel",
+  "tema": "auto",
+  "pauta": "Dúvida respondida: NFS-e por marca na comissão extra da Shopee",
+  "legenda": "se você recebeu comissão extra paga por marca na Shopee, vale ler isso antes de dezembro.\n\ndesde 01/08/2026 essa comissão extra tem um modelo fiscal próprio: quem é PJ emite uma NFS-e para cada marca que pagou extra, e quem é pessoa física resolve RPA e imposto de renda com cada marca. segundo os contadores, MEI não serve para essa atividade. a Shopee diz que não vai reter nem atrasar pagamento por causa disso.\n\nfontes: DRE Contábil e Actana, que explicaram a mudança.\n\nnão sou contador. leva isso pro seu antes de decidir qualquer coisa.",
+  "hashtags": [
+    "afiliadoshopee",
+    "marketingdeafiliados",
+    "afiliadainiciante",
+    "shopee"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "titulo": "Ganhou comissão extra de marca na Shopee? *Lê isso*.",
+      "mascote": true
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que mudou em *1º de agosto*.",
+      "corpo": "A comissão extra paga por marcas ganhou modelo fiscal próprio. PJ emite uma NFS-e por marca."
+    },
+    {
+      "tipo": "compara",
+      "titulo": "Pessoa física ou PJ?",
+      "esquerda": {
+        "rotulo": "Pessoa física",
+        "itens": [
+          "RPA e IR com cada marca"
+        ]
+      },
+      "direita": {
+        "rotulo": "Empresa (PJ)",
+        "itens": [
+          "Uma NFS-e por marca",
+          "MEI não serve, dizem contadores"
+        ]
+      }
+    },
+    {
+      "tipo": "texto",
+      "titulo": "E o pagamento?",
+      "corpo": "A Shopee diz que não vai reter nem atrasar pagamento por causa da mudança."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "Antes de dezembro",
+      "itens": [
+        "Liste as marcas que pagaram extra",
+        "Leve a lista ao seu contador",
+        "Pergunte se vale sair do MEI"
+      ]
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Manda para a amiga afiliada que não sabe disso.",
+      "sub": "Não sou contador: confirme tudo com o seu.",
+      "botao": "Enviar para alguém"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+  ],
+  "tema_usado": "black"
+}

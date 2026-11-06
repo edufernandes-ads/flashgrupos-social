@@ -1,0 +1,84 @@
+{
+  "data": "2026-11-08",
+  "hora": "10:00",
+  "formato": "carrossel",
+  "tema": "padrao",
+  "pauta": "Fixado 1: o que o Flash Grupos faz por você",
+  "legenda": "quem tem grupo de achadinhos sabe: o trabalho não é difícil, é repetitivo.\n\nacha a oferta, gera o link, vê se o cupom ainda vale, escreve, manda em cada grupo. daqui a 10 minutos, tudo de novo.\n\no Flash Grupos faz essa parte. você escolhe de onde vêm as ofertas e em quais grupos elas saem, cadastra seus dados de afiliado da Shopee e do Mercado Livre, e ele monta e envia no ritmo certo, das 9h às 21h.\n\na conversa com quem compra continua sendo sua.\n\nteste 7 dias com garantia: link na bio",
+  "hashtags": [
+    "grupodeachadinhos",
+    "afiliadashopee",
+    "automacaowhatsapp",
+    "achadinhosshopee",
+    "flashgrupos"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "selo": "COMECE AQUI  1/3",
+      "titulo": "Seu grupo de achadinhos *sem o trabalho braçal*.",
+      "sub": "O que o Flash Grupos faz por você, em 1 minuto.",
+      "mascote": true
+    },
+    {
+      "tipo": "lista",
+      "icone": "x",
+      "titulo": "Hoje, na mão:",
+      "itens": [
+        "Garimpar a oferta",
+        "Gerar o seu link",
+        "Achar cupom que vale",
+        "Escrever o texto",
+        "Colar grupo por grupo, o dia todo"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O Flash Grupos faz *essa parte*.",
+      "corpo": "Pega a oferta, troca pelo seu link, põe o seu cupom, monta a mensagem e envia nos seus grupos."
+    },
+    {
+      "tipo": "tela",
+      "imagem": "fila.jpg",
+      "recorte": [
+        0.03,
+        0.495,
+        0.34,
+        0.815
+      ],
+      "titulo": "Cada oferta sai com o *seu link* e o *seu cupom*.",
+      "legenda": "Tela real do painel: a oferta pronta na fila."
+    },
+    {
+      "tipo": "lista",
+      "titulo": "No ritmo que já vem configurado",
+      "itens": [
+        "Das 9h às 21h",
+        "Uma oferta a cada 7 a 10 minutos",
+        "Sem repetir produto",
+        "Nada de madrugada"
+      ]
+    },
+    {
+      "tipo": "texto",
+      "titulo": "O que continua *com você*",
+      "corpo": "Escolher o nicho e os grupos. Conversar com quem compra. Decidir se aprova cada oferta ou deixa no automático."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Teste 7 dias no seu grupo.",
+      "sub": "Sem fidelidade. Se não fizer sentido, você pede o reembolso.",
+      "botao": "Link na bio"
+    }
+  ],
+  "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+  ],
+  "tema_usado": "padrao"
+}

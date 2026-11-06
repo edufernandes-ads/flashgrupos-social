@@ -1,5 +1,17 @@
 # Flash Grupos: manual da marca para o Instagram
 
+## O que o Flash Grupos entrega em primeiro lugar (definido pelo Edu, 06/11/2026)
+Automatiza a parte repetitiva e operacional da afiliada: achar a oferta, gerar o link de afiliado, colocar o cupom, escrever a mensagem e postar em cada grupo, o dia todo, no ritmo certo. Isso é a mensagem central de bio, fixados, stories e da maioria dos posts de produto.
+Redirecionador, páginas, análise de membros e custo por membro são complementos (para quem enche grupo com anúncio). Aparecem de vez em quando, nunca como mensagem principal.
+
+Bio oficial (até 150 caracteres):
+⚡ Automação para afiliadas de achadinhos
+Acha a oferta, põe seu link e cupom e posta nos seus grupos sozinho
+👇 Teste 7 dias
+
+## Imagens novas
+Quando um post precisar de imagem que não existe em brand/assets (cena da preguiça, ilustração), o Designer NÃO inventa: escreve o prompt em estrategia/PROMPTS-IMAGENS.md (usando a mascote de referência) e avisa o Edu, que gera no ChatGPT e salva em brand/assets com o nome indicado. Até chegar, o post usa o layout sem a imagem.
+
 ## O produto
 Flash Grupos (antigo Redirect Pro) é a automação para donas e donos de grupos de ofertas ("achadinhos") no WhatsApp.
 Site: flashgrupos.com. Painel: painel.flashgrupos.com.
@@ -52,7 +64,8 @@ Desejo: grupo vendendo sozinho, renda previsível, liberdade.
 
 ### Prints do painel
 - Os prints em brand/assets são do tema azul antigo. Usar dentro de moldura de celular/navegador escura; trocar por prints novos no tema violeta assim que existirem.
-- Mascote: a preguiça de fone (brand/assets/logo-preguica-512.png e flash-rosto.webp). Ideia da marca: "a preguiça descansa, o grupo trabalha".
+- Mascote por época (o render escolhe pela data): brand/assets/mascote-black.jpg (Flash Black Friday, novembro) e mascote-natal.jpg (Flash Natalino, dezembro). Cada época nova recebe uma imagem feita pelo Edu: avisar ele com antecedência.
+- Mascote base: a preguiça de fone (brand/assets/logo-preguica-512.png e flash-rosto.webp). Ideia da marca: "a preguiça descansa, o grupo trabalha".
 - Formato do feed: 1080x1350 (4:5). Stories e Reels: 1080x1920.
 - Sempre: @ e logo pequeno no rodapé, muito respiro, no máximo 25 palavras por slide.
 
@@ -62,6 +75,23 @@ Leve, direto, com humor sutil da preguiça. Exemplos de frases da marca:
 - "Você liga uma vez. O grupo roda sozinho."
 - "A preguiça descansa. O grupo trabalha."
 - "Quero meu tempo de volta."
+
+## Voz: sem cara de IA (pedido do Edu, 06/11/2026)
+O conteúdo nasce do mercado de afiliados (estrategia/PESQUISA-PUBLICO.md), não da página de vendas. O produto aparece no máximo em 1 slide e só quando resolve a dor do post. A maioria dos posts ensina, esclarece ou conta algo sem vender.
+
+Proibido (cheiro de IA):
+- Aberturas prontas: "Descubra", "Imagine", "Prazer,", "Você sabia que", "E se eu te dissesse", "Chega de".
+- Tríades e listas de três adjetivos ("simples, rápido e eficiente"), frases de efeito em todo slide, pergunta retórica atrás de pergunta retórica.
+- Repetir os bordões da página de vendas ("Liga uma vez. O grupo roda sozinho.", "Quero meu tempo de volta", "Seu grupo de ofertas, sem você preso nele"). Podem aparecer no máximo 1 vez por mês.
+- Palavras genéricas: "revolucionário", "potencialize", "alavanque", "jornada", "game changer", "solução completa".
+- Emoji em toda linha da legenda. No máximo 2 por legenda.
+
+Obrigatório:
+- Falar como afiliada fala: "comissão caiu", "link não puxou", "grupo esfriou", "cookie", "subid", "meli.la", "grupo lotou", "tomei ban", "postar no automático".
+- Cena concreta do dia a dia (hora, lugar, situação) em vez de conceito.
+- Um fato verificável ou uma dúvida real por post, de preferência com a fonte na legenda quando for número.
+- Formatos variados: mito x verdade, dúvida respondida, erro comum, bastidor, curiosidade de marketplace, comparação de lojas, checklist de data, enquete.
+- Legenda escrita como pessoa: pode começar com minúscula, frase curta, opinião.
 
 ## CTA padrão
 "Teste 7 dias com garantia: link na bio" ou "Comenta GRUPO que eu te mando o link" (só se a automação de DM existir; por enquanto use o link na bio).
