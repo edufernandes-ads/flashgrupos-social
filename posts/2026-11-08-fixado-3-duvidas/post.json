@@ -4,7 +4,7 @@
   "formato": "carrossel",
   "tema": "padrao",
   "pauta": "Fixado 3: dúvidas que travam (ban, robô, tecnologia, lojas)",
-  "legenda": "respondendo sem enrolar as dúvidas que travam quem pensa em automatizar o grupo.\n\nsobre ban: o risco existe em qualquer ferramenta que conecta pelo WhatsApp Web, e quem diz que é zero está mentindo. o que mais derruba número, segundo matéria do Estado de Minas (fev/2026), é WhatsApp modificado, disparo em massa e mensagem para lista comprada. a Meta baniu mais de 6,8 milhões de contas só no primeiro semestre de 2025.\n\npor isso a gente recomenda chip separado para os grupos e envio espaçado, que é como o painel já vem.\n\nsobre lojas: Shopee e Mercado Livre saem no automático. Amazon e Magalu entram pelos grupos que você acompanha ou pelo link que você cola. um detalhe honesto: link meli.la que abre a vitrine de outro afiliado precisa da extensão do Chrome aberta para achar o produto.\n\no Flash Grupos só envia nos grupos que você escolher e não lê suas conversas privadas.\n\ntem outra dúvida? manda no direct.",
+  "legenda": "respondendo sem enrolar as dúvidas que travam quem pensa em automatizar o grupo.\n\nsobre ban: o risco existe em qualquer ferramenta que conecta pelo WhatsApp Web, e quem diz que é zero está mentindo. o que mais derruba número, segundo matéria do Estado de Minas (fev/2026), é WhatsApp modificado, disparo em massa e mensagem para lista comprada. a Meta baniu mais de 6,8 milhões de contas só no primeiro semestre de 2025.\n\npor isso a gente recomenda chip separado para os grupos e envio espaçado, que é como o painel já vem.\n\nsobre lojas: Shopee e Mercado Livre saem no automático. Amazon e Magalu entram pelos grupos que você acompanha ou pelo link que você cola. um detalhe honesto: link meli.la que abre a vitrine de outro afiliado precisa da extensão do Chrome aberta para achar o produto.\n\no Flash Grupos só envia nos grupos que você escolher e não lê suas conversas.\n\ntem outra dúvida? manda no direct.",
   "hashtags": [
     "grupodeachadinhos",
     "afiliadashopee",
@@ -67,7 +67,7 @@
     {
       "tipo": "texto",
       "titulo": "E se não servir pra mim?",
-      "corpo": "Sem fidelidade. Em até 7 dias você pede o reembolso pela Kiwify. E ele não lê suas conversas privadas."
+      "corpo": "Sem fidelidade. Em até 7 dias você pede o reembolso pela Kiwify."
     },
     {
       "tipo": "cta",
