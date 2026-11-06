@@ -107,7 +107,9 @@ def due_posts():
         if not f.exists():
             continue
         p = json.loads(f.read_text(encoding="utf8"))
-        if p.get("status") in ("publicado", "pausado") or not p.get("imagens"):
+        if p.get("status") in ("publicado", "pausado", "arquivado", "substituido") or not p.get("imagens"):
+            continue
+        if p.get("aprovado") is not True:  # regra do Edu: só publica roteiro aprovado por ele
             continue
         when = datetime.fromisoformat(f'{p["data"]}T{p.get("hora", "12:00")}').replace(tzinfo=BRT)
         if when <= now and now - when < timedelta(days=2):
