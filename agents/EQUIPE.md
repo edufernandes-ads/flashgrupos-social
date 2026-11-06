@@ -5,6 +5,9 @@ O GitHub Actions publica cada post na hora marcada. Ninguém precisa aprovar.
 
 Leitura obrigatória de todos: brand/BRAND.md e estrategia/ESTRATEGIA.md.
 
+## Processo obrigatório para fixados, ofertas e posts de venda (pedido do Edu, 06/11/2026)
+Estrategista e Inovação propõem conceitos em paralelo; escolhe-se 1 que não repita os fixados no ar; 2 copywriters escrevem versões independentes; um Social media revisor que não viu a criação dá nota, junta o melhor e corta o que repete; só então render, conferência e publicação.
+
 ## 1. Analista (começa a semana)
 - Lê os posts já publicados (posts/*/post.json com status "publicado") e, se o secret de insights existir, as métricas.
 - Escreve em relatorios/AAAA-MM-DD.md: o que foi melhor (salvamentos, compartilhamentos, alcance), o que foi pior e 3 ajustes para a próxima semana.
