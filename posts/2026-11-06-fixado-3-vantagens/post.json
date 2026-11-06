@@ -5,7 +5,7 @@
   "tema": "padrao",
   "status": "publicado",
   "via": "navegador",
-  "legenda": "o que muda no dia de quem automatiza o grupo de achadinhos:\n\no grupo fica ativo das 9h às 21h, mesmo quando você está no trabalho, no mercado ou com as crianças. a oferta boa que apareceu às 15h não espera você ter tempo.\n\ncada oferta sai com o seu link de afiliado e o seu cupom, no seu padrão de mensagem. sem link trocado no meio do caminho.\n\nproduto repetido fica de fora sozinho e o envio segue um ritmo de gente, sem encher o grupo de uma vez.\n\ne se algo parar, você fica sabendo pelo próprio WhatsApp.\n\nteste 7 dias com garantia: link na bio",
+  "legenda": "fim do dia, você abre o WhatsApp e o seu grupo trabalhou sozinho.\n\nas ofertas saíram das 9h às 21h, todas com o seu link de afiliado e o seu cupom. a promoção relâmpago das 15h foi pro grupo na hora. e você passou o dia fazendo outra coisa.\n\né isso que o Flash Grupos faz: tira de você a parte chata e repetitiva e deixa o grupo rodando no ritmo certo.\n\ntesta 7 dias no seu grupo. não gostou, devolvemos seu dinheiro.\n\nlink na bio",
   "hashtags": [
     "grupodeachadinhos",
     "afiliadashopee",
@@ -17,43 +17,43 @@
     {
       "tipo": "capa",
       "selo": "COMECE AQUI  3/3",
-      "titulo": "O que muda quando o grupo *trabalha sozinho*.",
-      "sub": "5 vantagens que você sente já na primeira semana.",
+      "titulo": "Seu grupo postando o dia todo. *Sem você no celular.*",
+      "sub": "Arrasta e vê o que muda na sua rotina.",
       "mascote": true
     },
     {
       "tipo": "texto",
       "numero": 1,
-      "titulo": "O grupo fica ativo *o dia todo*",
-      "corpo": "Das 9h às 21h, mesmo quando você está no trabalho, no mercado ou com as crianças."
+      "titulo": "Chega de colar link *o dia inteiro*",
+      "corpo": "Achar a oferta, gerar o link, pôr o cupom e mandar em cada grupo. Ele faz isso por você."
     },
     {
       "tipo": "texto",
       "numero": 2,
-      "titulo": "Seu link e seu cupom, *sempre certos*",
-      "corpo": "Cada oferta sai com o seu link de afiliado e o seu cupom. Sem colar link errado."
+      "titulo": "Seu grupo *nunca esfria*",
+      "corpo": "Oferta nova a cada 7 a 10 minutos, das 9h às 21h. Mesmo no trabalho, no mercado ou com as crianças."
     },
     {
       "tipo": "texto",
       "numero": 3,
-      "titulo": "A oferta boa *não passa*",
-      "corpo": "Promoção que aparece às 15h vai pro grupo às 15h, não quando você tiver tempo."
+      "titulo": "Toda venda *no seu nome*",
+      "corpo": "Cada link sai com o seu código de afiliado e o seu cupom. Nenhuma comissão perdida por link errado."
     },
     {
       "tipo": "texto",
       "numero": 4,
-      "titulo": "Ritmo de gente, *não de spam*",
-      "corpo": "Uma oferta a cada 7 a 10 minutos e sem repetir produto. O grupo não cansa."
+      "titulo": "Você pega a promoção *primeiro*",
+      "corpo": "A oferta que apareceu às 15h está no seu grupo às 15h. Não à noite, quando já acabou."
     },
     {
       "tipo": "texto",
       "numero": 5,
-      "titulo": "Você fica sabendo *se algo parar*",
-      "corpo": "Número caiu ou grupo lotou? O aviso chega no seu WhatsApp."
+      "titulo": "Mais grupos, *mesmo trabalho*",
+      "corpo": "Vários nichos e até 3 números ao mesmo tempo, cada um com os seus grupos."
     },
     {
       "tipo": "lista",
-      "titulo": "Funciona com as lojas que *você já divulga*",
+      "titulo": "As lojas que você divulga, *num lugar só*",
       "itens": [
         "Shopee",
         "Mercado Livre",
@@ -63,9 +63,9 @@
     },
     {
       "tipo": "cta",
-      "titulo": "Teste no *seu grupo*.",
-      "sub": "7 dias de garantia. Sem fidelidade.",
-      "botao": "Link na bio"
+      "titulo": "Testa 7 dias *no seu grupo*.",
+      "sub": "Não gostou, devolvemos seu dinheiro. Sem fidelidade.",
+      "botao": "Começar pelo link na bio"
     }
   ],
   "imagens": [
